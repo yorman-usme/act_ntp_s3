@@ -146,14 +146,14 @@
     ],
     "overallScore": 0.8,
     "totalActivities": 20,
-    "completedActivities": 5,
-    "summary": "Necesita mejorar. Completó 5/20 actividades (25%) con una calificación promedio de 0.8/5. Se recomienda revisar los conceptos fundamentales.",
+    "completedActivities": 20,
+    "summary": "Necesita mejorar. Completó 20/20 actividades (100%) con una calificación promedio de 0.8/5. Se recomienda revisar los conceptos fundamentales.",
     "recommendations": [
       "Revisar y mejorar las actividades con calificación baja",
       "Enfocarse en mejorar la documentación y comentarios del código",
       "Aplicar mejores prácticas de programación"
     ],
-    "evaluatedAt": "2025-07-25T06:21:33.132Z",
-    "evaluatedBy": "Sistema de Evaluación"
+    "evaluatedAt": "2025-07-25T06:32:16.488Z",
+    "evaluatedBy": "Sistema"
   }
 }
