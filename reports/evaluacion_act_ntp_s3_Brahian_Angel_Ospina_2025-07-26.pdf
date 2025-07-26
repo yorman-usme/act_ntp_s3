@@ -48,7 +48,7 @@ BT
 11.5 TL
 0 g
 39.6850393700787407 692.6774015748030706 Td
-(Fecha de evaluación: 25/7/2025, 20:01:14) Tj
+(Fecha de evaluación: 25/7/2025, 20:01:22) Tj
 ET
 BT
 /F1 10 Tf
@@ -1318,7 +1318,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 399.0157480314961163 172.253385826771364 Td
-(Sí) Tj
+(No) Tj
 ET
 1. g
 0.78 G
@@ -1331,7 +1331,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 469.8818897637795544 172.253385826771364 Td
-(5.0) Tj
+(0.0) Tj
 ET
 1. g
 0.78 G
@@ -1383,7 +1383,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 399.0157480314961163 153.0533858267713185 Td
-(No) Tj
+(Sí) Tj
 ET
 1. g
 0.78 G
@@ -1396,7 +1396,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 469.8818897637795544 153.0533858267713185 Td
-(0.0) Tj
+(5.0) Tj
 ET
 1. g
 0.78 G
@@ -2352,7 +2352,7 @@ endobj
 endobj
 12 0 obj
 <<
-/Length 5269
+/Length 5193
 >>
 stream
 0.5670000000000001 w
@@ -2377,14 +2377,14 @@ BT
 11.5 TL
 0. g
 51.0236220472441033 742.3585039370078675 Td
-(Estado: Archivo encontrado) Tj
+(Estado: Archivo no encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
 51.0236220472441033 726.6892125984252289 Td
-(Calificación: 5.0/5.0) Tj
+(Calificación: 0.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
@@ -2398,14 +2398,20 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 695.3506299212598378 Td
-(Excelente solución. El código es conciso, correcto y sigue las buenas prácticas para generar la secuencia de) Tj
-T* (Fibonacci hasta el valor requerido. La lógica es clara y eficiente.) Tj
+(Error al evaluar: got status: 429 . {"error":{"code":429,"message":"You exceeded your current quota, please check) Tj
+T* (your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-li) Tj
+T* (mits.","status":"RESOURCE_EXHAUSTED","details":[{"@type":"type.googleapis.com/google.rpc.QuotaFailure","viol) Tj
+T* (ations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"Gener) Tj
+T* (ateRequestsPerMinutePerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.0-fla) Tj
+T* (sh"},"quotaValue":"15"}]},{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about) Tj
+T* (Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.) Tj
+T* (rpc.RetryInfo","retryDelay":"7s"}]}}) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 659.6774015748030706 Td
+39.6850393700787407 590.6774015748030706 Td
 (Actividad 19: Con un ciclo for, cuenta cuántas vocales \(sin distinción de mayúsculas/minúsculas\) hay en la) Tj
 T* (frase frase = "programacion es divertida" y muestra el total.) Tj
 ET
@@ -2413,49 +2419,42 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 632.5081102362204319 Td
+51.0236220472441033 563.5081102362204319 Td
 (Archivo esperado: src/ejercicio_19.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 616.8388188976377933 Td
-(Estado: Archivo no encontrado) Tj
+51.0236220472441033 547.8388188976377933 Td
+(Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 601.1695275590551546 Td
-(Calificación: 0.0/5.0) Tj
+51.0236220472441033 532.1695275590550409 Td
+(Calificación: 5.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 585.5002362204725159 Td
+51.0236220472441033 516.5002362204725159 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 569.8309448818897636 Td
-(Error al evaluar: got status: 429 . {"error":{"code":429,"message":"You exceeded your current quota, please check) Tj
-T* (your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-li) Tj
-T* (mits.","status":"RESOURCE_EXHAUSTED","details":[{"@type":"type.googleapis.com/google.rpc.QuotaFailure","viol) Tj
-T* (ations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"Gener) Tj
-T* (ateRequestsPerMinutePerProjectPerModel-FreeTier","quotaDimensions":{"model":"gemini-2.0-flash","location":"glob) Tj
-T* (al"},"quotaValue":"15"}]},{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about) Tj
-T* (Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.) Tj
-T* (rpc.RetryInfo","retryDelay":"6s"}]}}) Tj
+62.3622047244094517 500.8309448818897636 Td
+(La solución es correcta, clara y concisa. El código cumple con el objetivo propuesto y es fácil de entender.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 465.15771653543311 Td
+39.6850393700787407 476.65771653543311 Td
 (Actividad 20: Utilizando un ciclo while, solicita al usuario que ingrese edades una a una. El proceso) Tj
 T* (termina cuando se introduzca -1. Al final, muestra la edad mayor que se haya ingresado.) Tj
 ET
@@ -2463,35 +2462,35 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 437.9884251968504714 Td
+51.0236220472441033 449.4884251968504714 Td
 (Archivo esperado: src/ejercicio_20.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 422.3191338582678327 Td
+51.0236220472441033 433.8191338582677758 Td
 (Estado: Archivo no encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 406.6498425196851372 Td
+51.0236220472441033 418.1498425196851372 Td
 (Calificación: 0.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 390.9805511811024985 Td
+51.0236220472441033 402.4805511811024985 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 375.311259842519803 Td
+62.3622047244094517 386.811259842519803 Td
 (Error al evaluar: got status: 429 . {"error":{"code":429,"message":"You exceeded your current quota, please check) Tj
 T* (your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-li) Tj
 T* (mits.","status":"RESOURCE_EXHAUSTED","details":[{"@type":"type.googleapis.com/google.rpc.QuotaFailure","viol) Tj
@@ -2505,14 +2504,14 @@ BT
 /F2 12 Tf
 13.7999999999999989 TL
 0. g
-39.6850393700787407 270.6380314960631495 Td
+39.6850393700787407 282.1380314960631495 Td
 (Resumen General) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 247.2994488188978721 Td
+39.6850393700787407 258.7994488188977584 Td
 (Excelente trabajo. Completó 17/20 actividades \(85%\) con una calificación promedio de 4.2/5. Demuestra buen) Tj
 T* (dominio de los conceptos.) Tj
 ET
@@ -2520,21 +2519,21 @@ BT
 /F2 12 Tf
 13.7999999999999989 TL
 0. g
-39.6850393700787407 205.9569291338584662 Td
+39.6850393700787407 217.4569291338584662 Td
 (Recomendaciones) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 182.6183464566931889 Td
-(• Completar los archivos faltantes: src/ejercicio_17.py, src/ejercicio_19.py, src/ejercicio_20.py) Tj
+51.0236220472441033 194.1183464566931889 Td
+(• Completar los archivos faltantes: src/ejercicio_17.py, src/ejercicio_18.py, src/ejercicio_20.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 166.9490551181105502 Td
+51.0236220472441033 178.4490551181104365 Td
 (• Revisar y mejorar las actividades con calificación baja) Tj
 ET
 BT
@@ -2723,7 +2722,7 @@ endobj
 27 0 obj
 <<
 /Producer (jsPDF 3.0.1)
-/CreationDate (D:20250725200115-05'00')
+/CreationDate (D:20250725200122-05'00')
 >>
 endobj
 28 0 obj
@@ -2737,8 +2736,8 @@ endobj
 xref
 0 29
 0000000000 65535 f 
-0000049929 00000 n 
-0000051776 00000 n 
+0000049853 00000 n 
+0000051700 00000 n 
 0000000015 00000 n 
 0000000152 00000 n 
 0000026574 00000 n 
@@ -2749,29 +2748,29 @@ xref
 0000038128 00000 n 
 0000044468 00000 n 
 0000044607 00000 n 
-0000050011 00000 n 
-0000050137 00000 n 
-0000050268 00000 n 
-0000050402 00000 n 
-0000050540 00000 n 
-0000050664 00000 n 
-0000050793 00000 n 
-0000050925 00000 n 
-0000051061 00000 n 
-0000051189 00000 n 
-0000051316 00000 n 
-0000051445 00000 n 
-0000051578 00000 n 
-0000051680 00000 n 
-0000052029 00000 n 
-0000052115 00000 n 
+0000049935 00000 n 
+0000050061 00000 n 
+0000050192 00000 n 
+0000050326 00000 n 
+0000050464 00000 n 
+0000050588 00000 n 
+0000050717 00000 n 
+0000050849 00000 n 
+0000050985 00000 n 
+0000051113 00000 n 
+0000051240 00000 n 
+0000051369 00000 n 
+0000051502 00000 n 
+0000051604 00000 n 
+0000051953 00000 n 
+0000052039 00000 n 
 trailer
 <<
 /Size 29
 /Root 28 0 R
 /Info 27 0 R
-/ID [ <54D649290C8BD0E1CC456BA82C43260F> <54D649290C8BD0E1CC456BA82C43260F> ]
+/ID [ <74E87FA5035817D172F49DE088B86E58> <74E87FA5035817D172F49DE088B86E58> ]
 >>
 startxref
-52219
+52143
 %%EOF
