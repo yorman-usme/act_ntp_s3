@@ -10,7 +10,7 @@
 endobj
 4 0 obj
 <<
-/Length 26354
+/Length 26369
 >>
 stream
 0.5670000000000001 w
@@ -48,14 +48,14 @@ BT
 11.5 TL
 0 g
 39.6850393700787407 692.6774015748030706 Td
-(Fecha de evaluación: 25/7/2025, 19:43:56) Tj
+(Fecha de evaluación: 25/7/2025, 20:00:06) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0 g
 39.6850393700787407 677.0081102362204319 Td
-(Evaluado por: Sistema de Evaluación) Tj
+(Evaluado por: Sistema \(Re-evaluación individual\)) Tj
 ET
 BT
 /F2 12 Tf
@@ -69,21 +69,21 @@ BT
 11.5 TL
 0 g
 39.6850393700787407 623.827007874015635 Td
-(Calificación general: 3.3/5.0) Tj
+(Calificación general: 4.2/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0 g
 39.6850393700787407 608.1577165354329964 Td
-(Actividades completadas: 16/20) Tj
+(Actividades completadas: 17/20) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0 g
 39.6850393700787407 592.4884251968503577 Td
-(Porcentaje de completitud: 80.0%) Tj
+(Porcentaje de completitud: 85.0%) Tj
 ET
 BT
 /F2 12 Tf
@@ -1253,7 +1253,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 399.0157480314961163 191.4533858267714095 Td
-(No) Tj
+(Sí) Tj
 ET
 1. g
 0.78 G
@@ -1266,7 +1266,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 469.8818897637795544 191.4533858267714095 Td
-(0.0) Tj
+(5.0) Tj
 ET
 1. g
 0.78 G
@@ -2053,7 +2053,7 @@ endobj
 endobj
 10 0 obj
 <<
-/Length 6287
+/Length 5519
 >>
 stream
 0.5670000000000001 w
@@ -2296,14 +2296,14 @@ BT
 11.5 TL
 0. g
 51.0236220472441033 137.7600787401578373 Td
-(Estado: Archivo no encontrado) Tj
+(Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
 51.0236220472441033 122.0907874015751986 Td
-(Calificación: 0.0/5.0) Tj
+(Calificación: 5.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
@@ -2317,14 +2317,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 90.7522047244098076 Td
-(Error al evaluar: got status: 429 . {"error":{"code":429,"message":"You exceeded your current quota, please check) Tj
-T* (your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-li) Tj
-T* (mits.","status":"RESOURCE_EXHAUSTED","details":[{"@type":"type.googleapis.com/google.rpc.QuotaFailure","viol) Tj
-T* (ations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"Gener) Tj
-T* (ateRequestsPerMinutePerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.0-fla) Tj
-T* (sh"},"quotaValue":"15"}]},{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about) Tj
-T* (Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.) Tj
-T* (rpc.RetryInfo","retryDelay":"8s"}]}}) Tj
+(La solución es correcta, clara y concisa. El código funciona según lo esperado y maneja adecuadamente la entrada) Tj
+T* (inválida.) Tj
 ET
 BT
 /F1 8 Tf
@@ -2352,7 +2346,7 @@ endobj
 endobj
 12 0 obj
 <<
-/Length 5573
+/Length 5562
 >>
 stream
 0.5670000000000001 w
@@ -2519,8 +2513,8 @@ BT
 11.5 TL
 0. g
 39.6850393700787407 178.2994488188977584 Td
-(Buen trabajo general. Completó 16/20 actividades \(80%\) con una calificación promedio de 3.3/5. Hay) Tj
-T* (oportunidades de mejora en algunos aspectos.) Tj
+(Excelente trabajo. Completó 17/20 actividades \(85%\) con una calificación promedio de 4.2/5. Demuestra buen) Tj
+T* (dominio de los conceptos.) Tj
 ET
 BT
 /F1 8 Tf
@@ -2548,7 +2542,7 @@ endobj
 endobj
 14 0 obj
 <<
-/Length 700
+/Length 679
 >>
 stream
 0.5670000000000001 w
@@ -2565,7 +2559,7 @@ BT
 11.5 TL
 0. g
 51.0236220472441033 761.8585039370078675 Td
-(• Completar los archivos faltantes: src/ejercicio_17.py, src/ejercicio_18.py, src/ejercicio_19.py, src/ejercicio_20.py) Tj
+(• Completar los archivos faltantes: src/ejercicio_18.py, src/ejercicio_19.py, src/ejercicio_20.py) Tj
 ET
 BT
 /F1 10 Tf
@@ -2760,7 +2754,7 @@ endobj
 29 0 obj
 <<
 /Producer (jsPDF 3.0.1)
-/CreationDate (D:20250725194356-05'00')
+/CreationDate (D:20250725200007-05'00')
 >>
 endobj
 30 0 obj
@@ -2774,43 +2768,43 @@ endobj
 xref
 0 31
 0000000000 65535 f 
-0000051109 00000 n 
-0000052963 00000 n 
+0000050324 00000 n 
+0000052178 00000 n 
 0000000015 00000 n 
 0000000152 00000 n 
-0000026559 00000 n 
-0000026696 00000 n 
-0000031954 00000 n 
-0000032091 00000 n 
-0000037975 00000 n 
-0000038113 00000 n 
-0000044453 00000 n 
-0000044592 00000 n 
-0000050218 00000 n 
-0000050357 00000 n 
-0000051198 00000 n 
-0000051324 00000 n 
-0000051455 00000 n 
-0000051589 00000 n 
-0000051727 00000 n 
-0000051851 00000 n 
+0000026574 00000 n 
+0000026711 00000 n 
+0000031969 00000 n 
+0000032106 00000 n 
+0000037990 00000 n 
+0000038128 00000 n 
+0000043700 00000 n 
+0000043839 00000 n 
+0000049454 00000 n 
+0000049593 00000 n 
+0000050413 00000 n 
+0000050539 00000 n 
+0000050670 00000 n 
+0000050804 00000 n 
+0000050942 00000 n 
+0000051066 00000 n 
+0000051195 00000 n 
+0000051327 00000 n 
+0000051463 00000 n 
+0000051591 00000 n 
+0000051718 00000 n 
+0000051847 00000 n 
 0000051980 00000 n 
-0000052112 00000 n 
-0000052248 00000 n 
-0000052376 00000 n 
-0000052503 00000 n 
-0000052632 00000 n 
-0000052765 00000 n 
-0000052867 00000 n 
-0000053216 00000 n 
-0000053302 00000 n 
+0000052082 00000 n 
+0000052431 00000 n 
+0000052517 00000 n 
 trailer
 <<
 /Size 31
 /Root 30 0 R
 /Info 29 0 R
-/ID [ <EB5B2461E9B83D443909DB6A75CB930D> <EB5B2461E9B83D443909DB6A75CB930D> ]
+/ID [ <40971619EB5CFEF9A9F04F82F610594C> <40971619EB5CFEF9A9F04F82F610594C> ]
 >>
 startxref
-53406
+52621
 %%EOF
