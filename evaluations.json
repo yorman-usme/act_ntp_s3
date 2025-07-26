@@ -466,5 +466,161 @@
     ],
     "evaluatedAt": "2025-07-26T00:38:33.992Z",
     "evaluatedBy": "Sistema de Evaluación"
+  },
+  "Bangel0/act_ntp_s3": {
+    "repositoryUrl": "Bangel0/act_ntp_s3",
+    "studentName": "Brahian Angel Ospina",
+    "activities": [
+      {
+        "activityDescription": "Usando un ciclo for, imprime los números enteros del 0 al 9, cada uno en una línea.",
+        "solutionFile": "src/ejercicio_01.py",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "El código resuelve el problema aunque empieza en 1 en vez de 0. La variable `numerosAscendentes` es descriptiva, pero el ciclo debería iniciar en 0 para cumplir con la descripción del problema."
+      },
+      {
+        "activityDescription": "Mediante un ciclo while, imprime los números enteros del 10 al 1 en orden descendente, cada número en una línea.",
+        "solutionFile": "src/ejercicio_02.py",
+        "score": 2,
+        "fileFound": true,
+        "feedback": "La solución imprime una lista en lugar de los números individualmente en líneas separadas.  Se podría mejorar la lógica del bucle while para imprimir cada número directamente y usar un solo entero como contador en lugar de una lista."
+      },
+      {
+        "activityDescription": "Con un ciclo for, calcula la suma de todos los enteros del 1 al 100 (inclusive) y muestra el resultado.",
+        "solutionFile": "src/ejercicio_03.py",
+        "score": 3,
+        "fileFound": true,
+        "feedback": "La solución calcula la suma, pero tiene un error en el rango del ciclo `for`.  El ciclo itera hasta `len(suma_res)+1`, lo cual hace que `n` tome el valor 101 en la última iteración, sumando un número fuera del rango solicitado. Además, la lista `suma_res` no es necesaria, el ciclo `for` puede iterar directamente sobre el rango 1-101."
+      },
+      {
+        "activityDescription": "Utilizando un ciclo while, solicita al usuario que ingrese números. El proceso termina cuando el usuario escriba 0. Al final, muestra la suma total de todos los números ingresados.",
+        "solutionFile": "src/ejercicio_04.py",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "El código resuelve el problema, pero incluye el 0 en la suma final. Podrías excluir el 0 del cálculo de la suma para una solución más precisa. Además, la función podría ser más reutilizable si devolviera la suma en lugar de imprimirla directamente."
+      },
+      {
+        "activityDescription": "Con un ciclo for, imprime la tabla de multiplicar del 7, es decir, 7 × 1, 7 × 2, …, 7 × 10, cada resultado en una línea.",
+        "solutionFile": "src/ejercicio_05.py",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "La solución es correcta y concisa. Sin embargo, usar una comprensión de lista solo para imprimir no es la forma más legible. Preferiría un bucle for explícito para mayor claridad."
+      },
+      {
+        "activityDescription": "Mediante un ciclo while, genera y muestra los primeros 15 múltiplos de 3, comenzando desde 3.",
+        "solutionFile": "src/ejercicio_06.py",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "La lógica es correcta y genera los múltiplos de 3. Sin embargo, la condición `multiplos != 16` no es la forma más clara de expresar que quieres 15 múltiplos. Podrías considerar usar un contador o ajustar la condición del while para ser más explícito sobre el número de iteraciones."
+      },
+      {
+        "activityDescription": "Con un ciclo for, cuenta cuántas letras 'a' (minúscula) hay en la cadena texto = \"manzana\" y muestra el total.",
+        "solutionFile": "src/ejercicio_07.py",
+        "score": 3,
+        "fileFound": true,
+        "feedback": "La solución resuelve el problema, pero usa nombres de variables poco descriptivos, lo que dificulta la lectura.  Se podría mejorar la legibilidad usando nombres más significativos y la función debería recibir el texto como argumento en lugar de tenerlo hardcodeado."
+      },
+      {
+        "activityDescription": "Usando un ciclo while, calcula y muestra los cuadrados de los números del 1 al 20 (1², 2², …, 20²), cada resultado en una línea.",
+        "solutionFile": "src/ejercicio_08.py",
+        "score": 3,
+        "fileFound": true,
+        "feedback": "La solución funciona, pero no utiliza un ciclo `while` de la manera más eficiente. Se podría simplificar el código utilizando un contador en lugar de un iterador y una lista predefinida."
+      },
+      {
+        "activityDescription": "Con un ciclo for, imprime todos los números pares del 2 al 50 (ambos inclusive), cada número en una línea.",
+        "solutionFile": "src/ejercicio_09.py",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "La solución es correcta y concisa. Se puede mejorar la legibilidad al usar un ciclo for tradicional en lugar de una lista de comprensión para imprimir los números."
+      },
+      {
+        "activityDescription": "Mediante un ciclo while, solicita al usuario que escriba palabras. El proceso termina cuando el usuario escriba la palabra \"fin\". Al final, muestra cuántas palabras se leyeron (sin contar \"fin\").",
+        "solutionFile": "src/ejercicio_10.py",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La solución es correcta y eficiente. El uso de `.lower()` hace que el programa sea más robusto al aceptar 'Fin', 'FIN', etc."
+      },
+      {
+        "activityDescription": "Con un ciclo for, imprime cada carácter de la palabra \"python\" en una línea separada.",
+        "solutionFile": "src/ejercicio_11.py",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La solución es correcta y concisa. Cumple con el objetivo de la actividad utilizando un ciclo for de manera eficiente para imprimir cada carácter de la palabra 'python' en una línea separada."
+      },
+      {
+        "activityDescription": "Utilizando un ciclo while, calcula el factorial de un número entero n introducido por el usuario y muestra el resultado.",
+        "solutionFile": "src/ejercicio_12.py",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La solución es correcta y funcional. El código es limpio, legible y cumple con los requisitos del problema utilizando un ciclo while para calcular el factorial."
+      },
+      {
+        "activityDescription": "Con un ciclo for, imprime los números del 1 al 30 saltando de 3 en 3 (1, 4, 7, …, 28), cada número en una línea.",
+        "solutionFile": "src/ejercicio_13.py",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La solución es correcta, concisa y cumple con todos los requisitos. El código es limpio y fácil de entender."
+      },
+      {
+        "activityDescription": "Mediante un ciclo while, implementa un juego de adivinanza: el programa genera un número aleatorio del 1 al 10 y solicita al usuario que lo adivine. El proceso se repite hasta que el usuario acierte. Muestra un mensaje de felicitación al final.",
+        "solutionFile": "src/ejercicio_14.py",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "Excelente solución. El código es funcional, claro y conciso, resolviendo el problema planteado de manera eficiente. Bien hecho."
+      },
+      {
+        "activityDescription": "Con un ciclo for, imprime un triángulo rectángulo de 5 filas usando el carácter '*'.",
+        "solutionFile": "src/ejercicio_15.py",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La solución es correcta y concisa. Utiliza un ciclo for de forma eficiente para generar el triángulo rectángulo."
+      },
+      {
+        "activityDescription": "Utilizando un ciclo while, simula un reloj digital que muestre cada segundo desde 00:00 hasta 00:59 en formato MM:SS, cada valor en una línea.",
+        "solutionFile": "src/ejercicio_16.py",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "Excelente solución. El código es conciso, funcional y utiliza el formateo correcto para la presentación de la hora. Cumple a la perfección con los requisitos del ejercicio."
+      },
+      {
+        "activityDescription": "Con un ciclo for, solicita al usuario que ingrese un número entero positivo y calcula la suma de sus dígitos, mostrando el resultado final.",
+        "solutionFile": "src/ejercicio_17.py",
+        "score": 0,
+        "fileFound": false,
+        "feedback": "Error al evaluar: got status: 429 . {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.0-flash\"},\"quotaValue\":\"15\"}]},{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"8s\"}]}}"
+      },
+      {
+        "activityDescription": "Mediante un ciclo while, genera y muestra la secuencia de Fibonacci empezando por 1, 1, 2, 3, 5, … y termina cuando se alcance el primer valor mayor que 1000.",
+        "solutionFile": "src/ejercicio_18.py",
+        "score": 0,
+        "fileFound": false,
+        "feedback": "Error al evaluar: got status: 429 . {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.0-flash\"},\"quotaValue\":\"15\"}]},{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"7s\"}]}}"
+      },
+      {
+        "activityDescription": "Con un ciclo for, cuenta cuántas vocales (sin distinción de mayúsculas/minúsculas) hay en la frase frase = \"programacion es divertida\" y muestra el total.",
+        "solutionFile": "src/ejercicio_19.py",
+        "score": 0,
+        "fileFound": false,
+        "feedback": "Error al evaluar: got status: 429 . {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"model\":\"gemini-2.0-flash\",\"location\":\"global\"},\"quotaValue\":\"15\"}]},{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"6s\"}]}}"
+      },
+      {
+        "activityDescription": "Utilizando un ciclo while, solicita al usuario que ingrese edades una a una. El proceso termina cuando se introduzca -1. Al final, muestra la edad mayor que se haya ingresado.",
+        "solutionFile": "src/ejercicio_20.py",
+        "score": 0,
+        "fileFound": false,
+        "feedback": "Error al evaluar: got status: 429 . {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.0-flash\"},\"quotaValue\":\"15\"}]},{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"4s\"}]}}"
+      }
+    ],
+    "overallScore": 3.3,
+    "totalActivities": 20,
+    "completedActivities": 16,
+    "summary": "Buen trabajo general. Completó 16/20 actividades (80%) con una calificación promedio de 3.3/5. Hay oportunidades de mejora en algunos aspectos.",
+    "recommendations": [
+      "Completar los archivos faltantes: src/ejercicio_17.py, src/ejercicio_18.py, src/ejercicio_19.py, src/ejercicio_20.py",
+      "Revisar y mejorar las actividades con calificación baja"
+    ],
+    "evaluatedAt": "2025-07-26T00:43:55.643Z",
+    "evaluatedBy": "Sistema de Evaluación"
   }
 }
