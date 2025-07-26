@@ -48,7 +48,7 @@ BT
 11.5 TL
 0 g
 39.6850393700787407 692.6774015748030706 Td
-(Fecha de evaluación: 25/7/2025, 20:00:06) Tj
+(Fecha de evaluación: 25/7/2025, 20:00:14) Tj
 ET
 BT
 /F1 10 Tf
@@ -1253,7 +1253,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 399.0157480314961163 191.4533858267714095 Td
-(Sí) Tj
+(No) Tj
 ET
 1. g
 0.78 G
@@ -1266,7 +1266,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 469.8818897637795544 191.4533858267714095 Td
-(5.0) Tj
+(0.0) Tj
 ET
 1. g
 0.78 G
@@ -1318,7 +1318,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 399.0157480314961163 172.253385826771364 Td
-(No) Tj
+(Sí) Tj
 ET
 1. g
 0.78 G
@@ -1331,7 +1331,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 469.8818897637795544 172.253385826771364 Td
-(0.0) Tj
+(5.0) Tj
 ET
 1. g
 0.78 G
@@ -1476,7 +1476,7 @@ BT
 9.1999999999999993 TL
 0. g
 510.2406299212597673 28.3464566929134207 Td
-(Página 1 de 6) Tj
+(Página 1 de 5) Tj
 ET
 BT
 /F1 8 Tf
@@ -1736,7 +1736,7 @@ BT
 9.1999999999999993 TL
 0. g
 510.2406299212597673 28.3464566929134207 Td
-(Página 2 de 6) Tj
+(Página 2 de 5) Tj
 ET
 BT
 /F1 8 Tf
@@ -2032,7 +2032,7 @@ BT
 9.1999999999999993 TL
 0. g
 510.2406299212597673 28.3464566929134207 Td
-(Página 3 de 6) Tj
+(Página 3 de 5) Tj
 ET
 BT
 /F1 8 Tf
@@ -2053,7 +2053,7 @@ endobj
 endobj
 10 0 obj
 <<
-/Length 5519
+/Length 6287
 >>
 stream
 0.5670000000000001 w
@@ -2296,14 +2296,14 @@ BT
 11.5 TL
 0. g
 51.0236220472441033 137.7600787401578373 Td
-(Estado: Archivo encontrado) Tj
+(Estado: Archivo no encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
 51.0236220472441033 122.0907874015751986 Td
-(Calificación: 5.0/5.0) Tj
+(Calificación: 0.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
@@ -2317,15 +2317,21 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 90.7522047244098076 Td
-(La solución es correcta, clara y concisa. El código funciona según lo esperado y maneja adecuadamente la entrada) Tj
-T* (inválida.) Tj
+(Error al evaluar: got status: 429 . {"error":{"code":429,"message":"You exceeded your current quota, please check) Tj
+T* (your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-li) Tj
+T* (mits.","status":"RESOURCE_EXHAUSTED","details":[{"@type":"type.googleapis.com/google.rpc.QuotaFailure","viol) Tj
+T* (ations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"Gener) Tj
+T* (ateRequestsPerMinutePerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.0-fla) Tj
+T* (sh"},"quotaValue":"15"}]},{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about) Tj
+T* (Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.) Tj
+T* (rpc.RetryInfo","retryDelay":"8s"}]}}) Tj
 ET
 BT
 /F1 8 Tf
 9.1999999999999993 TL
 0. g
 510.2406299212597673 28.3464566929134207 Td
-(Página 4 de 6) Tj
+(Página 4 de 5) Tj
 ET
 BT
 /F1 8 Tf
@@ -2346,7 +2352,7 @@ endobj
 endobj
 12 0 obj
 <<
-/Length 5562
+/Length 5250
 >>
 stream
 0.5670000000000001 w
@@ -2371,14 +2377,14 @@ BT
 11.5 TL
 0. g
 51.0236220472441033 742.3585039370078675 Td
-(Estado: Archivo no encontrado) Tj
+(Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
 51.0236220472441033 726.6892125984252289 Td
-(Calificación: 0.0/5.0) Tj
+(Calificación: 5.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
@@ -2392,20 +2398,14 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 695.3506299212598378 Td
-(Error al evaluar: got status: 429 . {"error":{"code":429,"message":"You exceeded your current quota, please check) Tj
-T* (your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-li) Tj
-T* (mits.","status":"RESOURCE_EXHAUSTED","details":[{"@type":"type.googleapis.com/google.rpc.QuotaFailure","viol) Tj
-T* (ations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"Gener) Tj
-T* (ateRequestsPerMinutePerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.0-fla) Tj
-T* (sh"},"quotaValue":"15"}]},{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about) Tj
-T* (Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.) Tj
-T* (rpc.RetryInfo","retryDelay":"7s"}]}}) Tj
+(La solución es correcta y eficiente. El código es legible y aplica buenas prácticas al usar la asignación simultánea) Tj
+T* (para calcular la secuencia de Fibonacci.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 590.6774015748030706 Td
+39.6850393700787407 659.6774015748030706 Td
 (Actividad 19: Con un ciclo for, cuenta cuántas vocales \(sin distinción de mayúsculas/minúsculas\) hay en la) Tj
 T* (frase frase = "programacion es divertida" y muestra el total.) Tj
 ET
@@ -2413,35 +2413,35 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 563.5081102362204319 Td
+51.0236220472441033 632.5081102362204319 Td
 (Archivo esperado: src/ejercicio_19.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 547.8388188976377933 Td
+51.0236220472441033 616.8388188976377933 Td
 (Estado: Archivo no encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 532.1695275590550409 Td
+51.0236220472441033 601.1695275590551546 Td
 (Calificación: 0.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 516.5002362204725159 Td
+51.0236220472441033 585.5002362204725159 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 500.8309448818897636 Td
+62.3622047244094517 569.8309448818897636 Td
 (Error al evaluar: got status: 429 . {"error":{"code":429,"message":"You exceeded your current quota, please check) Tj
 T* (your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-li) Tj
 T* (mits.","status":"RESOURCE_EXHAUSTED","details":[{"@type":"type.googleapis.com/google.rpc.QuotaFailure","viol) Tj
@@ -2455,7 +2455,7 @@ BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 396.15771653543311 Td
+39.6850393700787407 465.15771653543311 Td
 (Actividad 20: Utilizando un ciclo while, solicita al usuario que ingrese edades una a una. El proceso) Tj
 T* (termina cuando se introduzca -1. Al final, muestra la edad mayor que se haya ingresado.) Tj
 ET
@@ -2463,35 +2463,35 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 368.9884251968504714 Td
+51.0236220472441033 437.9884251968504714 Td
 (Archivo esperado: src/ejercicio_20.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 353.3191338582677758 Td
+51.0236220472441033 422.3191338582678327 Td
 (Estado: Archivo no encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 337.6498425196851372 Td
+51.0236220472441033 406.6498425196851372 Td
 (Calificación: 0.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 321.9805511811024417 Td
+51.0236220472441033 390.9805511811024985 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 306.311259842519803 Td
+62.3622047244094517 375.311259842519803 Td
 (Error al evaluar: got status: 429 . {"error":{"code":429,"message":"You exceeded your current quota, please check) Tj
 T* (your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-li) Tj
 T* (mits.","status":"RESOURCE_EXHAUSTED","details":[{"@type":"type.googleapis.com/google.rpc.QuotaFailure","viol) Tj
@@ -2505,67 +2505,36 @@ BT
 /F2 12 Tf
 13.7999999999999989 TL
 0. g
-39.6850393700787407 201.6380314960631495 Td
+39.6850393700787407 270.6380314960631495 Td
 (Resumen General) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 178.2994488188977584 Td
+39.6850393700787407 247.2994488188978721 Td
 (Excelente trabajo. Completó 17/20 actividades \(85%\) con una calificación promedio de 4.2/5. Demuestra buen) Tj
 T* (dominio de los conceptos.) Tj
 ET
 BT
-/F1 8 Tf
-9.1999999999999993 TL
-0. g
-510.2406299212597673 28.3464566929134207 Td
-(Página 5 de 6) Tj
-ET
-BT
-/F1 8 Tf
-9.1999999999999993 TL
-0. g
-39.6850393700787407 28.3464566929134207 Td
-(Generado por Sistema de Evaluación IA) Tj
-ET
-endstream
-endobj
-13 0 obj
-<</Type /Page
-/Parent 1 0 R
-/Resources 2 0 R
-/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
-/Contents 14 0 R
->>
-endobj
-14 0 obj
-<<
-/Length 679
->>
-stream
-0.5670000000000001 w
-0. G
-BT
 /F2 12 Tf
 13.7999999999999989 TL
 0. g
-39.6850393700787407 785.1970866141732586 Td
+39.6850393700787407 205.9569291338584662 Td
 (Recomendaciones) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 761.8585039370078675 Td
-(• Completar los archivos faltantes: src/ejercicio_18.py, src/ejercicio_19.py, src/ejercicio_20.py) Tj
+51.0236220472441033 182.6183464566931889 Td
+(• Completar los archivos faltantes: src/ejercicio_17.py, src/ejercicio_19.py, src/ejercicio_20.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 746.1892125984252289 Td
+51.0236220472441033 166.9490551181105502 Td
 (• Revisar y mejorar las actividades con calificación baja) Tj
 ET
 BT
@@ -2573,7 +2542,7 @@ BT
 9.1999999999999993 TL
 0. g
 510.2406299212597673 28.3464566929134207 Td
-(Página 6 de 6) Tj
+(Página 5 de 5) Tj
 ET
 BT
 /F1 8 Tf
@@ -2586,11 +2555,11 @@ endstream
 endobj
 1 0 obj
 <</Type /Pages
-/Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R ]
-/Count 6
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R ]
+/Count 5
 >>
 endobj
-15 0 obj
+13 0 obj
 <<
 /Type /Font
 /BaseFont /Helvetica
@@ -2600,7 +2569,7 @@ endobj
 /LastChar 255
 >>
 endobj
-16 0 obj
+14 0 obj
 <<
 /Type /Font
 /BaseFont /Helvetica-Bold
@@ -2610,7 +2579,7 @@ endobj
 /LastChar 255
 >>
 endobj
-17 0 obj
+15 0 obj
 <<
 /Type /Font
 /BaseFont /Helvetica-Oblique
@@ -2620,7 +2589,7 @@ endobj
 /LastChar 255
 >>
 endobj
-18 0 obj
+16 0 obj
 <<
 /Type /Font
 /BaseFont /Helvetica-BoldOblique
@@ -2630,7 +2599,7 @@ endobj
 /LastChar 255
 >>
 endobj
-19 0 obj
+17 0 obj
 <<
 /Type /Font
 /BaseFont /Courier
@@ -2640,7 +2609,7 @@ endobj
 /LastChar 255
 >>
 endobj
-20 0 obj
+18 0 obj
 <<
 /Type /Font
 /BaseFont /Courier-Bold
@@ -2650,7 +2619,7 @@ endobj
 /LastChar 255
 >>
 endobj
-21 0 obj
+19 0 obj
 <<
 /Type /Font
 /BaseFont /Courier-Oblique
@@ -2660,7 +2629,7 @@ endobj
 /LastChar 255
 >>
 endobj
-22 0 obj
+20 0 obj
 <<
 /Type /Font
 /BaseFont /Courier-BoldOblique
@@ -2670,7 +2639,7 @@ endobj
 /LastChar 255
 >>
 endobj
-23 0 obj
+21 0 obj
 <<
 /Type /Font
 /BaseFont /Times-Roman
@@ -2680,7 +2649,7 @@ endobj
 /LastChar 255
 >>
 endobj
-24 0 obj
+22 0 obj
 <<
 /Type /Font
 /BaseFont /Times-Bold
@@ -2690,7 +2659,7 @@ endobj
 /LastChar 255
 >>
 endobj
-25 0 obj
+23 0 obj
 <<
 /Type /Font
 /BaseFont /Times-Italic
@@ -2700,7 +2669,7 @@ endobj
 /LastChar 255
 >>
 endobj
-26 0 obj
+24 0 obj
 <<
 /Type /Font
 /BaseFont /Times-BoldItalic
@@ -2710,7 +2679,7 @@ endobj
 /LastChar 255
 >>
 endobj
-27 0 obj
+25 0 obj
 <<
 /Type /Font
 /BaseFont /ZapfDingbats
@@ -2719,7 +2688,7 @@ endobj
 /LastChar 255
 >>
 endobj
-28 0 obj
+26 0 obj
 <<
 /Type /Font
 /BaseFont /Symbol
@@ -2732,32 +2701,32 @@ endobj
 <<
 /ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
 /Font <<
-/F1 15 0 R
-/F2 16 0 R
-/F3 17 0 R
-/F4 18 0 R
-/F5 19 0 R
-/F6 20 0 R
-/F7 21 0 R
-/F8 22 0 R
-/F9 23 0 R
-/F10 24 0 R
-/F11 25 0 R
-/F12 26 0 R
-/F13 27 0 R
-/F14 28 0 R
+/F1 13 0 R
+/F2 14 0 R
+/F3 15 0 R
+/F4 16 0 R
+/F5 17 0 R
+/F6 18 0 R
+/F7 19 0 R
+/F8 20 0 R
+/F9 21 0 R
+/F10 22 0 R
+/F11 23 0 R
+/F12 24 0 R
+/F13 25 0 R
+/F14 26 0 R
 >>
 /XObject <<
 >>
 >>
 endobj
-29 0 obj
+27 0 obj
 <<
 /Producer (jsPDF 3.0.1)
-/CreationDate (D:20250725200007-05'00')
+/CreationDate (D:20250725200014-05'00')
 >>
 endobj
-30 0 obj
+28 0 obj
 <<
 /Type /Catalog
 /Pages 1 0 R
@@ -2766,10 +2735,10 @@ endobj
 >>
 endobj
 xref
-0 31
+0 29
 0000000000 65535 f 
-0000050324 00000 n 
-0000052178 00000 n 
+0000049910 00000 n 
+0000051757 00000 n 
 0000000015 00000 n 
 0000000152 00000 n 
 0000026574 00000 n 
@@ -2778,33 +2747,31 @@ xref
 0000032106 00000 n 
 0000037990 00000 n 
 0000038128 00000 n 
-0000043700 00000 n 
-0000043839 00000 n 
-0000049454 00000 n 
-0000049593 00000 n 
-0000050413 00000 n 
-0000050539 00000 n 
-0000050670 00000 n 
-0000050804 00000 n 
-0000050942 00000 n 
-0000051066 00000 n 
-0000051195 00000 n 
-0000051327 00000 n 
-0000051463 00000 n 
-0000051591 00000 n 
-0000051718 00000 n 
-0000051847 00000 n 
-0000051980 00000 n 
-0000052082 00000 n 
-0000052431 00000 n 
-0000052517 00000 n 
+0000044468 00000 n 
+0000044607 00000 n 
+0000049992 00000 n 
+0000050118 00000 n 
+0000050249 00000 n 
+0000050383 00000 n 
+0000050521 00000 n 
+0000050645 00000 n 
+0000050774 00000 n 
+0000050906 00000 n 
+0000051042 00000 n 
+0000051170 00000 n 
+0000051297 00000 n 
+0000051426 00000 n 
+0000051559 00000 n 
+0000051661 00000 n 
+0000052010 00000 n 
+0000052096 00000 n 
 trailer
 <<
-/Size 31
-/Root 30 0 R
-/Info 29 0 R
-/ID [ <40971619EB5CFEF9A9F04F82F610594C> <40971619EB5CFEF9A9F04F82F610594C> ]
+/Size 29
+/Root 28 0 R
+/Info 27 0 R
+/ID [ <EA08AA90021D0F31B1A1592CB43EB8DF> <EA08AA90021D0F31B1A1592CB43EB8DF> ]
 >>
 startxref
-52621
+52200
 %%EOF
