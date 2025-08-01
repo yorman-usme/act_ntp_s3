@@ -41,14 +41,14 @@ BT
 11.5 TL
 0 g
 39.6850393700787407 708.346692913385823 Td
-(Repositorio: jfinfotest/act_ntp_s3) Tj
+(Repositorio: Sens-debug/act_ntp_s3) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0 g
 39.6850393700787407 692.6774015748030706 Td
-(Fecha de evaluación: 31/7/2025, 22:42:26) Tj
+(Fecha de evaluación: 31/7/2025, 23:03:06) Tj
 ET
 BT
 /F1 10 Tf
@@ -213,7 +213,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 399.0157480314961163 498.6533858267716255 Td
-(No) Tj
+(Sí) Tj
 ET
 1. g
 0.78 G
@@ -1497,7 +1497,7 @@ endobj
 endobj
 6 0 obj
 <<
-/Length 5193
+/Length 4672
 >>
 stream
 0.5670000000000001 w
@@ -1528,7 +1528,7 @@ BT
 11.5 TL
 0. g
 51.0236220472441033 722.0159842519684616 Td
-(Estado: Archivo no encontrado) Tj
+(Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
@@ -1538,31 +1538,10 @@ BT
 (Calificación: 0.0/5.0) Tj
 ET
 BT
-/F1 10 Tf
-11.5 TL
-0. g
-51.0236220472441033 690.6774015748030706 Td
-(Retroalimentación:) Tj
-ET
-BT
-/F1 10 Tf
-11.5 TL
-0. g
-62.3622047244094517 675.0081102362204319 Td
-(Error al evaluar: got status: 429 . {"error":{"code":429,"message":"You exceeded your current quota, please check) Tj
-T* (your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-li) Tj
-T* (mits.","status":"RESOURCE_EXHAUSTED","details":[{"@type":"type.googleapis.com/google.rpc.QuotaFailure","viol) Tj
-T* (ations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"Gener) Tj
-T* (ateRequestsPerMinutePerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.0-fla) Tj
-T* (sh"},"quotaValue":"15"}]},{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about) Tj
-T* (Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.) Tj
-T* (rpc.RetryInfo","retryDelay":"40s"}]}}) Tj
-ET
-BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 570.3348818897636647 Td
+39.6850393700787407 682.1734645669290558 Td
 (Actividad 2: Mediante un ciclo while, imprime los números enteros del 10 al 1 en orden descendente, cada) Tj
 T* (número en una línea.) Tj
 ET
@@ -1570,28 +1549,28 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 543.1655905511810261 Td
+51.0236220472441033 655.0041732283464171 Td
 (Archivo esperado: src/ejercicio_02.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 527.4962992125983874 Td
+51.0236220472441033 639.3348818897637784 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 511.8270078740156919 Td
+51.0236220472441033 623.6655905511811397 Td
 (Calificación: 0.0/5.0) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 487.6537795275590383 Td
+39.6850393700787407 599.4923622047243725 Td
 (Actividad 3: Con un ciclo for, calcula la suma de todos los enteros del 1 al 100 \(inclusive\) y muestra el) Tj
 T* (resultado.) Tj
 ET
@@ -1599,28 +1578,28 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 460.4844881889763428 Td
+51.0236220472441033 572.3230708661417339 Td
 (Archivo esperado: src/ejercicio_03.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 444.8151968503937042 Td
+51.0236220472441033 556.6537795275589815 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 429.1459055118110086 Td
+51.0236220472441033 540.9844881889764565 Td
 (Calificación: 0.0/5.0) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 404.9726771653543551 Td
+39.6850393700787407 516.8112598425196893 Td
 (Actividad 4: Utilizando un ciclo while, solicita al usuario que ingrese números. El proceso termina cuando) Tj
 T* (el usuario escriba 0. Al final, muestra la suma total de todos los números ingresados.) Tj
 ET
@@ -1628,28 +1607,28 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 377.8033858267717164 Td
+51.0236220472441033 489.6419685039370506 Td
 (Archivo esperado: src/ejercicio_04.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 362.1340944881890209 Td
+51.0236220472441033 473.9726771653543551 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 346.4648031496063822 Td
+51.0236220472441033 458.3033858267717164 Td
 (Calificación: 0.0/5.0) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 322.2915748031497287 Td
+39.6850393700787407 434.1301574803150061 Td
 (Actividad 5: Con un ciclo for, imprime la tabla de multiplicar del 7, es decir, 7 × 1, 7 × 2, …, 7 × 10, cada) Tj
 T* (resultado en una línea.) Tj
 ET
@@ -1657,28 +1636,28 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 295.12228346456709 Td
+51.0236220472441033 406.9608661417323674 Td
 (Archivo esperado: src/ejercicio_05.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 279.4529921259843377 Td
+51.0236220472441033 391.2915748031497287 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 263.783700787401699 Td
+51.0236220472441033 375.6222834645670332 Td
 (Calificación: 0.0/5.0) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 239.6104724409450455 Td
+39.6850393700787407 351.4490551181103797 Td
 (Actividad 6: Mediante un ciclo while, genera y muestra los primeros 15 múltiplos de 3, comenzando desde) Tj
 T* (3.) Tj
 ET
@@ -1686,28 +1665,28 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 212.4411811023624068 Td
+51.0236220472441033 324.2797637795276842 Td
 (Archivo esperado: src/ejercicio_06.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 196.7718897637797681 Td
+51.0236220472441033 308.6104724409450455 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 181.1025984251971295 Td
+51.0236220472441033 292.9411811023624068 Td
 (Calificación: 0.0/5.0) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 156.9293700787403623 Td
+39.6850393700787407 268.7679527559057533 Td
 (Actividad 7: Con un ciclo for, cuenta cuántas letras 'a' \(minúscula\) hay en la cadena texto = "manzana" y) Tj
 T* (muestra el total.) Tj
 ET
@@ -1715,21 +1694,50 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 129.7600787401577236 Td
+51.0236220472441033 241.5986614173231146 Td
 (Archivo esperado: src/ejercicio_07.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 114.0907874015750849 Td
+51.0236220472441033 225.9293700787403623 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 98.4214960629924462 Td
+51.0236220472441033 210.2600787401577236 Td
+(Calificación: 0.0/5.0) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+39.6850393700787407 186.0868503937010701 Td
+(Actividad 8: Usando un ciclo while, calcula y muestra los cuadrados de los números del 1 al 20 \(1², 2², …,) Tj
+T* (20²\), cada resultado en una línea.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 158.9175590551184314 Td
+(Archivo esperado: src/ejercicio_08.py) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 143.2482677165357927 Td
+(Estado: Archivo encontrado) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 127.578976377953154 Td
 (Calificación: 0.0/5.0) Tj
 ET
 BT
@@ -1758,7 +1766,7 @@ endobj
 endobj
 8 0 obj
 <<
-/Length 5265
+/Length 5275
 >>
 stream
 0.5670000000000001 w
@@ -1768,15 +1776,15 @@ BT
 11.5 TL
 0. g
 39.6850393700787407 785.1970866141732586 Td
-(Actividad 8: Usando un ciclo while, calcula y muestra los cuadrados de los números del 1 al 20 \(1², 2², …,) Tj
-T* (20²\), cada resultado en una línea.) Tj
+(Actividad 9: Con un ciclo for, imprime todos los números pares del 2 al 50 \(ambos inclusive\), cada número) Tj
+T* (en una línea.) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
 51.0236220472441033 758.0277952755905062 Td
-(Archivo esperado: src/ejercicio_08.py) Tj
+(Archivo esperado: src/ejercicio_09.py) Tj
 ET
 BT
 /F1 10 Tf
@@ -1797,15 +1805,15 @@ BT
 11.5 TL
 0. g
 39.6850393700787407 702.5159842519684616 Td
-(Actividad 9: Con un ciclo for, imprime todos los números pares del 2 al 50 \(ambos inclusive\), cada número) Tj
-T* (en una línea.) Tj
+(Actividad 10: Mediante un ciclo while, solicita al usuario que escriba palabras. El proceso termina cuando) Tj
+T* (el usuario escriba la palabra "fin". Al final, muestra cuántas palabras se leyeron \(sin contar "fin"\).) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
 51.0236220472441033 675.346692913385823 Td
-(Archivo esperado: src/ejercicio_09.py) Tj
+(Archivo esperado: src/ejercicio_10.py) Tj
 ET
 BT
 /F1 10 Tf
@@ -1826,43 +1834,43 @@ BT
 11.5 TL
 0. g
 39.6850393700787407 619.8348818897637784 Td
-(Actividad 10: Mediante un ciclo while, solicita al usuario que escriba palabras. El proceso termina cuando) Tj
-T* (el usuario escriba la palabra "fin". Al final, muestra cuántas palabras se leyeron \(sin contar "fin"\).) Tj
-ET
-BT
-/F1 10 Tf
-11.5 TL
-0. g
-51.0236220472441033 592.6655905511811397 Td
-(Archivo esperado: src/ejercicio_10.py) Tj
-ET
-BT
-/F1 10 Tf
-11.5 TL
-0. g
-51.0236220472441033 576.9962992125983874 Td
-(Estado: Archivo encontrado) Tj
-ET
-BT
-/F1 10 Tf
-11.5 TL
-0. g
-51.0236220472441033 561.3270078740158624 Td
-(Calificación: 0.0/5.0) Tj
-ET
-BT
-/F2 10 Tf
-11.5 TL
-0. g
-39.6850393700787407 537.1537795275590952 Td
 (Actividad 11: Con un ciclo for, imprime cada carácter de la palabra "python" en una línea separada.) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 521.4844881889764565 Td
+51.0236220472441033 604.1655905511811397 Td
 (Archivo esperado: src/ejercicio_11.py) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 588.4962992125985011 Td
+(Estado: Archivo encontrado) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 572.8270078740158624 Td
+(Calificación: 0.0/5.0) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+39.6850393700787407 548.6537795275592089 Td
+(Actividad 12: Utilizando un ciclo while, calcula el factorial de un número entero n introducido por el usuario) Tj
+T* (y muestra el resultado.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 521.4844881889764565 Td
+(Archivo esperado: src/ejercicio_12.py) Tj
 ET
 BT
 /F1 10 Tf
@@ -1883,15 +1891,15 @@ BT
 11.5 TL
 0. g
 39.6850393700787407 465.9726771653544688 Td
-(Actividad 12: Utilizando un ciclo while, calcula el factorial de un número entero n introducido por el usuario) Tj
-T* (y muestra el resultado.) Tj
+(Actividad 13: Con un ciclo for, imprime los números del 1 al 30 saltando de 3 en 3 \(1, 4, 7, …, 28\), cada) Tj
+T* (número en una línea.) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
 51.0236220472441033 438.8033858267717733 Td
-(Archivo esperado: src/ejercicio_12.py) Tj
+(Archivo esperado: src/ejercicio_13.py) Tj
 ET
 BT
 /F1 10 Tf
@@ -1912,35 +1920,6 @@ BT
 11.5 TL
 0. g
 39.6850393700787407 383.2915748031497856 Td
-(Actividad 13: Con un ciclo for, imprime los números del 1 al 30 saltando de 3 en 3 \(1, 4, 7, …, 28\), cada) Tj
-T* (número en una línea.) Tj
-ET
-BT
-/F1 10 Tf
-11.5 TL
-0. g
-51.0236220472441033 356.1222834645671469 Td
-(Archivo esperado: src/ejercicio_13.py) Tj
-ET
-BT
-/F1 10 Tf
-11.5 TL
-0. g
-51.0236220472441033 340.4529921259845082 Td
-(Estado: Archivo encontrado) Tj
-ET
-BT
-/F1 10 Tf
-11.5 TL
-0. g
-51.0236220472441033 324.7837007874018127 Td
-(Calificación: 0.0/5.0) Tj
-ET
-BT
-/F2 10 Tf
-11.5 TL
-0. g
-39.6850393700787407 300.6104724409451592 Td
 (Actividad 14: Mediante un ciclo while, implementa un juego de adivinanza: el programa genera un número) Tj
 T* (aleatorio del 1 al 10 y solicita al usuario que lo adivine. El proceso se repite hasta que el usuario acierte.) Tj
 T* (Muestra un mensaje de felicitación al final.) Tj
@@ -1949,56 +1928,56 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 261.9411811023624068 Td
+51.0236220472441033 344.6222834645671469 Td
 (Archivo esperado: src/ejercicio_14.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 246.2718897637797681 Td
+51.0236220472441033 328.9529921259844514 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 230.6025984251971295 Td
+51.0236220472441033 313.2837007874018127 Td
 (Calificación: 0.0/5.0) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 206.4293700787404759 Td
+39.6850393700787407 289.1104724409451592 Td
 (Actividad 15: Con un ciclo for, imprime un triángulo rectángulo de 5 filas usando el carácter '*'.) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 190.7600787401577236 Td
+51.0236220472441033 273.4411811023625205 Td
 (Archivo esperado: src/ejercicio_15.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 175.0907874015750849 Td
+51.0236220472441033 257.7718897637798818 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 159.4214960629924462 Td
+51.0236220472441033 242.1025984251971295 Td
 (Calificación: 0.0/5.0) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 135.2482677165357927 Td
+39.6850393700787407 217.9293700787404759 Td
 (Actividad 16: Utilizando un ciclo while, simula un reloj digital que muestre cada segundo desde 00:00 hasta) Tj
 T* (00:59 en formato MM:SS, cada valor en una línea.) Tj
 ET
@@ -2006,21 +1985,50 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 108.0789763779530404 Td
+51.0236220472441033 190.7600787401578373 Td
 (Archivo esperado: src/ejercicio_16.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 92.4096850393704017 Td
+51.0236220472441033 175.0907874015751986 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 76.740393700787763 Td
+51.0236220472441033 159.4214960629925599 Td
+(Calificación: 0.0/5.0) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+39.6850393700787407 135.2482677165357927 Td
+(Actividad 17: Con un ciclo for, solicita al usuario que ingrese un número entero positivo y calcula la suma) Tj
+T* (de sus dígitos, mostrando el resultado final.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 108.078976377953154 Td
+(Archivo esperado: src/ejercicio_17.py) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 92.4096850393705154 Td
+(Estado: Archivo encontrado) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 76.7403937007878767 Td
 (Calificación: 0.0/5.0) Tj
 ET
 BT
@@ -2049,7 +2057,7 @@ endobj
 endobj
 10 0 obj
 <<
-/Length 3552
+/Length 2859
 >>
 stream
 0.5670000000000001 w
@@ -2059,15 +2067,15 @@ BT
 11.5 TL
 0. g
 39.6850393700787407 785.1970866141732586 Td
-(Actividad 17: Con un ciclo for, solicita al usuario que ingrese un número entero positivo y calcula la suma) Tj
-T* (de sus dígitos, mostrando el resultado final.) Tj
+(Actividad 18: Mediante un ciclo while, genera y muestra la secuencia de Fibonacci empezando por 1, 1, 2,) Tj
+T* (3, 5, … y termina cuando se alcance el primer valor mayor que 1000.) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
 51.0236220472441033 758.0277952755905062 Td
-(Archivo esperado: src/ejercicio_17.py) Tj
+(Archivo esperado: src/ejercicio_18.py) Tj
 ET
 BT
 /F1 10 Tf
@@ -2088,15 +2096,15 @@ BT
 11.5 TL
 0. g
 39.6850393700787407 702.5159842519684616 Td
-(Actividad 18: Mediante un ciclo while, genera y muestra la secuencia de Fibonacci empezando por 1, 1, 2,) Tj
-T* (3, 5, … y termina cuando se alcance el primer valor mayor que 1000.) Tj
+(Actividad 19: Con un ciclo for, cuenta cuántas vocales \(sin distinción de mayúsculas/minúsculas\) hay en la) Tj
+T* (frase frase = "programacion es divertida" y muestra el total.) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
 51.0236220472441033 675.346692913385823 Td
-(Archivo esperado: src/ejercicio_18.py) Tj
+(Archivo esperado: src/ejercicio_19.py) Tj
 ET
 BT
 /F1 10 Tf
@@ -2117,15 +2125,15 @@ BT
 11.5 TL
 0. g
 39.6850393700787407 619.8348818897637784 Td
-(Actividad 19: Con un ciclo for, cuenta cuántas vocales \(sin distinción de mayúsculas/minúsculas\) hay en la) Tj
-T* (frase frase = "programacion es divertida" y muestra el total.) Tj
+(Actividad 20: Utilizando un ciclo while, solicita al usuario que ingrese edades una a una. El proceso) Tj
+T* (termina cuando se introduzca -1. Al final, muestra la edad mayor que se haya ingresado.) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
 51.0236220472441033 592.6655905511811397 Td
-(Archivo esperado: src/ejercicio_19.py) Tj
+(Archivo esperado: src/ejercicio_20.py) Tj
 ET
 BT
 /F1 10 Tf
@@ -2142,46 +2150,17 @@ BT
 (Calificación: 0.0/5.0) Tj
 ET
 BT
-/F2 10 Tf
-11.5 TL
-0. g
-39.6850393700787407 537.1537795275590952 Td
-(Actividad 20: Utilizando un ciclo while, solicita al usuario que ingrese edades una a una. El proceso) Tj
-T* (termina cuando se introduzca -1. Al final, muestra la edad mayor que se haya ingresado.) Tj
-ET
-BT
-/F1 10 Tf
-11.5 TL
-0. g
-51.0236220472441033 509.9844881889763997 Td
-(Archivo esperado: src/ejercicio_20.py) Tj
-ET
-BT
-/F1 10 Tf
-11.5 TL
-0. g
-51.0236220472441033 494.315196850393761 Td
-(Estado: Archivo encontrado) Tj
-ET
-BT
-/F1 10 Tf
-11.5 TL
-0. g
-51.0236220472441033 478.6459055118111223 Td
-(Calificación: 0.0/5.0) Tj
-ET
-BT
 /F2 12 Tf
 13.7999999999999989 TL
 0. g
-39.6850393700787407 454.4726771653544688 Td
+39.6850393700787407 537.1537795275590952 Td
 (Resumen General) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 431.1340944881891346 Td
+39.6850393700787407 513.8151968503937042 Td
 (Necesita mejorar. Completó 0/20 actividades \(0%\) con una calificación promedio de 0.0/5. Se recomienda revisar) Tj
 T* (los conceptos fundamentales.) Tj
 ET
@@ -2189,35 +2168,28 @@ BT
 /F2 12 Tf
 13.7999999999999989 TL
 0. g
-39.6850393700787407 389.7915748031497856 Td
+39.6850393700787407 472.4726771653543551 Td
 (Recomendaciones) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 366.4529921259844514 Td
-(• Completar los archivos faltantes: src/ejercicio_01.py) Tj
-ET
-BT
-/F1 10 Tf
-11.5 TL
-0. g
-51.0236220472441033 350.7837007874018127 Td
+51.0236220472441033 449.1340944881890209 Td
 (• Revisar y mejorar las actividades con calificación baja) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 335.114409448819174 Td
+51.0236220472441033 433.4648031496063822 Td
 (• Enfocarse en mejorar la documentación y comentarios del código) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 319.4451181102365354 Td
+51.0236220472441033 417.7955118110237436 Td
 (• Aplicar mejores prácticas de programación) Tj
 ET
 BT
@@ -2406,7 +2378,7 @@ endobj
 25 0 obj
 <<
 /Producer (jsPDF 3.0.1)
-/CreationDate (D:20250731224226-05'00')
+/CreationDate (D:20250731230306-05'00')
 >>
 endobj
 26 0 obj
@@ -2420,39 +2392,39 @@ endobj
 xref
 0 27
 0000000000 65535 f 
-0000041148 00000 n 
-0000042988 00000 n 
+0000039944 00000 n 
+0000041784 00000 n 
 0000000015 00000 n 
 0000000152 00000 n 
 0000026569 00000 n 
 0000026706 00000 n 
-0000031951 00000 n 
-0000032088 00000 n 
-0000037405 00000 n 
-0000037543 00000 n 
-0000041223 00000 n 
-0000041349 00000 n 
-0000041480 00000 n 
-0000041614 00000 n 
-0000041752 00000 n 
-0000041876 00000 n 
-0000042005 00000 n 
-0000042137 00000 n 
-0000042273 00000 n 
-0000042401 00000 n 
-0000042528 00000 n 
-0000042657 00000 n 
-0000042790 00000 n 
-0000042892 00000 n 
-0000043241 00000 n 
-0000043327 00000 n 
+0000031430 00000 n 
+0000031567 00000 n 
+0000036894 00000 n 
+0000037032 00000 n 
+0000040019 00000 n 
+0000040145 00000 n 
+0000040276 00000 n 
+0000040410 00000 n 
+0000040548 00000 n 
+0000040672 00000 n 
+0000040801 00000 n 
+0000040933 00000 n 
+0000041069 00000 n 
+0000041197 00000 n 
+0000041324 00000 n 
+0000041453 00000 n 
+0000041586 00000 n 
+0000041688 00000 n 
+0000042037 00000 n 
+0000042123 00000 n 
 trailer
 <<
 /Size 27
 /Root 26 0 R
 /Info 25 0 R
-/ID [ <7EC7C46983B0194FEE41F12677FAAD55> <7EC7C46983B0194FEE41F12677FAAD55> ]
+/ID [ <6C034D56A91F0BCC12CA01B95A0A78DC> <6C034D56A91F0BCC12CA01B95A0A78DC> ]
 >>
 startxref
-43431
+42227
 %%EOF
