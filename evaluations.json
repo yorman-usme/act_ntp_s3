@@ -1865,13 +1865,11 @@
     "overallScore": 0,
     "totalActivities": 20,
     "completedActivities": 0,
-    "summary": "Necesita mejorar. Completó 0/20 actividades (0%) con una calificación promedio de 0.0/5. Se recomienda revisar los conceptos fundamentales.",
+    "summary": "Completó 0/20 actividades con una calificación promedio de 0.0/5.",
     "recommendations": [
-      "Completar los archivos faltantes: src/ejercicio_01.py, src/ejercicio_02.py, src/ejercicio_03.py, src/ejercicio_04.py, src/ejercicio_05.py, src/ejercicio_06.py, src/ejercicio_07.py, src/ejercicio_08.py, src/ejercicio_09.py, src/ejercicio_10.py, src/ejercicio_11.py, src/ejercicio_12.py, src/ejercicio_13.py, src/ejercicio_14.py, src/ejercicio_15.py, src/ejercicio_16.py, src/ejercicio_17.py, src/ejercicio_18.py, src/ejercicio_19.py, src/ejercicio_20.py",
-      "Enfocarse en mejorar la documentación y comentarios del código",
-      "Aplicar mejores prácticas de programación"
+      "Continuar con el buen trabajo"
     ],
-    "evaluatedAt": "2025-08-01T05:23:08.134Z",
-    "evaluatedBy": "Sistema de Evaluación Masiva"
+    "evaluatedAt": "2025-08-01T05:28:26.492Z",
+    "evaluatedBy": "Sistema de Evaluación"
   }
 }
