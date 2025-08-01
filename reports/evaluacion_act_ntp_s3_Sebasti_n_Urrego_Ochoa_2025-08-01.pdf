@@ -10,7 +10,7 @@
 endobj
 4 0 obj
 <<
-/Length 26365
+/Length 26358
 >>
 stream
 0.5670000000000001 w
@@ -48,14 +48,14 @@ BT
 11.5 TL
 0 g
 39.6850393700787407 692.6774015748030706 Td
-(Fecha de evaluación: 1/8/2025, 0:23:08) Tj
+(Fecha de evaluación: 1/8/2025, 0:28:26) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0 g
 39.6850393700787407 677.0081102362204319 Td
-(Evaluado por: Sistema de Evaluación Masiva) Tj
+(Evaluado por: Sistema de Evaluación) Tj
 ET
 BT
 /F2 12 Tf
@@ -2637,7 +2637,7 @@ endobj
 endobj
 16 0 obj
 <<
-/Length 1534
+/Length 730
 >>
 stream
 0.5670000000000001 w
@@ -2654,40 +2654,21 @@ BT
 11.5 TL
 0. g
 39.6850393700787407 761.8585039370078675 Td
-(Necesita mejorar. Completó 0/20 actividades \(0%\) con una calificación promedio de 0.0/5. Se recomienda revisar) Tj
-T* (los conceptos fundamentales.) Tj
+(Completó 0/20 actividades con una calificación promedio de 0.0/5.) Tj
 ET
 BT
 /F2 12 Tf
 13.7999999999999989 TL
 0. g
-39.6850393700787407 720.5159842519684616 Td
+39.6850393700787407 732.0159842519684616 Td
 (Recomendaciones) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 697.1774015748030706 Td
-(• Completar los archivos faltantes: src/ejercicio_01.py, src/ejercicio_02.py, src/ejercicio_03.py, src/ejercicio_04.py,) Tj
-T* (src/ejercicio_05.py, src/ejercicio_06.py, src/ejercicio_07.py, src/ejercicio_08.py, src/ejercicio_09.py,) Tj
-T* (src/ejercicio_10.py, src/ejercicio_11.py, src/ejercicio_12.py, src/ejercicio_13.py, src/ejercicio_14.py,) Tj
-T* (src/ejercicio_15.py, src/ejercicio_16.py, src/ejercicio_17.py, src/ejercicio_18.py, src/ejercicio_19.py,) Tj
-T* (src/ejercicio_20.py) Tj
-ET
-BT
-/F1 10 Tf
-11.5 TL
-0. g
-51.0236220472441033 635.5081102362204319 Td
-(• Enfocarse en mejorar la documentación y comentarios del código) Tj
-ET
-BT
-/F1 10 Tf
-11.5 TL
-0. g
-51.0236220472441033 619.8388188976377933 Td
-(• Aplicar mejores prácticas de programación) Tj
+51.0236220472441033 708.6774015748030706 Td
+(• Continuar con el buen trabajo) Tj
 ET
 BT
 /F1 8 Tf
@@ -2875,7 +2856,7 @@ endobj
 31 0 obj
 <<
 /Producer (jsPDF 3.0.1)
-/CreationDate (D:20250801002308-05'00')
+/CreationDate (D:20250801002827-05'00')
 >>
 endobj
 32 0 obj
@@ -2889,45 +2870,45 @@ endobj
 xref
 0 33
 0000000000 65535 f 
-0000051065 00000 n 
-0000052926 00000 n 
+0000050253 00000 n 
+0000052114 00000 n 
 0000000015 00000 n 
 0000000152 00000 n 
-0000026570 00000 n 
-0000026707 00000 n 
-0000031159 00000 n 
-0000031296 00000 n 
-0000035612 00000 n 
-0000035750 00000 n 
-0000040117 00000 n 
-0000040256 00000 n 
-0000044706 00000 n 
-0000044845 00000 n 
-0000049339 00000 n 
-0000049478 00000 n 
-0000051161 00000 n 
-0000051287 00000 n 
-0000051418 00000 n 
-0000051552 00000 n 
-0000051690 00000 n 
-0000051814 00000 n 
-0000051943 00000 n 
-0000052075 00000 n 
-0000052211 00000 n 
-0000052339 00000 n 
-0000052466 00000 n 
-0000052595 00000 n 
-0000052728 00000 n 
-0000052830 00000 n 
-0000053179 00000 n 
-0000053265 00000 n 
+0000026563 00000 n 
+0000026700 00000 n 
+0000031152 00000 n 
+0000031289 00000 n 
+0000035605 00000 n 
+0000035743 00000 n 
+0000040110 00000 n 
+0000040249 00000 n 
+0000044699 00000 n 
+0000044838 00000 n 
+0000049332 00000 n 
+0000049471 00000 n 
+0000050349 00000 n 
+0000050475 00000 n 
+0000050606 00000 n 
+0000050740 00000 n 
+0000050878 00000 n 
+0000051002 00000 n 
+0000051131 00000 n 
+0000051263 00000 n 
+0000051399 00000 n 
+0000051527 00000 n 
+0000051654 00000 n 
+0000051783 00000 n 
+0000051916 00000 n 
+0000052018 00000 n 
+0000052367 00000 n 
+0000052453 00000 n 
 trailer
 <<
 /Size 33
 /Root 32 0 R
 /Info 31 0 R
-/ID [ <290585468B6160769C92CFC0C486CDE1> <290585468B6160769C92CFC0C486CDE1> ]
+/ID [ <BD13BC6920C01EC341FE308515093586> <BD13BC6920C01EC341FE308515093586> ]
 >>
 startxref
-53369
+52557
 %%EOF
