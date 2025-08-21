@@ -1089,7 +1089,7 @@
   },
   "jfinfotest/act_ntp_s3": {
     "repositoryUrl": "jfinfotest/act_ntp_s3",
-    "studentName": "Estudiante desconocido",
+    "studentName": "Jhon Valencia",
     "activities": [
       {
         "activityDescription": "Usando un ciclo for, imprime los números enteros del 0 al 9, cada uno en una línea.",
@@ -1241,8 +1241,8 @@
       "Enfocarse en mejorar la documentación y comentarios del código",
       "Aplicar mejores prácticas de programación"
     ],
-    "evaluatedAt": "2025-08-21T13:44:12.843Z",
-    "evaluatedBy": "Sistema de Evaluación Masiva"
+    "evaluatedAt": "2025-08-21T17:19:24.204Z",
+    "evaluatedBy": "Sistema de Evaluación"
   },
   "AndresVallejo1/act_ntp_s3": {
     "repositoryUrl": "AndresVallejo1/act_ntp_s3",
