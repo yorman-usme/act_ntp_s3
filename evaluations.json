@@ -2177,5 +2177,162 @@
     ],
     "evaluatedAt": "2025-08-21T12:34:48.738Z",
     "evaluatedBy": "Sistema de Evaluación de No Calificados"
+  },
+  "garciaStizy/act_ntp_s3": {
+    "repositoryUrl": "garciaStizy/act_ntp_s3",
+    "studentName": "Estudiante desconocido",
+    "activities": [
+      {
+        "activityDescription": "Usando un ciclo for, imprime los números enteros del 0 al 9, cada uno en una línea.",
+        "solutionFile": "src/ejercicio_01.py",
+        "score": 0,
+        "fileFound": true,
+        "feedback": "Archivo vacío - sin contenido para evaluar"
+      },
+      {
+        "activityDescription": "Mediante un ciclo while, imprime los números enteros del 10 al 1 en orden descendente, cada número en una línea.",
+        "solutionFile": "src/ejercicio_02.py",
+        "score": 0,
+        "fileFound": true,
+        "feedback": "Archivo vacío - sin contenido para evaluar"
+      },
+      {
+        "activityDescription": "Con un ciclo for, calcula la suma de todos los enteros del 1 al 100 (inclusive) y muestra el resultado.",
+        "solutionFile": "src/ejercicio_03.py",
+        "score": 0,
+        "fileFound": true,
+        "feedback": "Archivo vacío - sin contenido para evaluar"
+      },
+      {
+        "activityDescription": "Utilizando un ciclo while, solicita al usuario que ingrese números. El proceso termina cuando el usuario escriba 0. Al final, muestra la suma total de todos los números ingresados.",
+        "solutionFile": "src/ejercicio_04.py",
+        "score": 0,
+        "fileFound": true,
+        "feedback": "Archivo vacío - sin contenido para evaluar"
+      },
+      {
+        "activityDescription": "Con un ciclo for, imprime la tabla de multiplicar del 7, es decir, 7 × 1, 7 × 2, …, 7 × 10, cada resultado en una línea.",
+        "solutionFile": "src/ejercicio_05.py",
+        "score": 0,
+        "fileFound": true,
+        "feedback": "Archivo vacío - sin contenido para evaluar"
+      },
+      {
+        "activityDescription": "Mediante un ciclo while, genera y muestra los primeros 15 múltiplos de 3, comenzando desde 3.",
+        "solutionFile": "src/ejercicio_06.py",
+        "score": 0,
+        "fileFound": true,
+        "feedback": "Archivo vacío - sin contenido para evaluar"
+      },
+      {
+        "activityDescription": "Con un ciclo for, cuenta cuántas letras 'a' (minúscula) hay en la cadena texto = \"manzana\" y muestra el total.",
+        "solutionFile": "src/ejercicio_07.py",
+        "score": 0,
+        "fileFound": true,
+        "feedback": "Archivo vacío - sin contenido para evaluar"
+      },
+      {
+        "activityDescription": "Usando un ciclo while, calcula y muestra los cuadrados de los números del 1 al 20 (1², 2², …, 20²), cada resultado en una línea.",
+        "solutionFile": "src/ejercicio_08.py",
+        "score": 0,
+        "fileFound": true,
+        "feedback": "Archivo vacío - sin contenido para evaluar"
+      },
+      {
+        "activityDescription": "Con un ciclo for, imprime todos los números pares del 2 al 50 (ambos inclusive), cada número en una línea.",
+        "solutionFile": "src/ejercicio_09.py",
+        "score": 0,
+        "fileFound": true,
+        "feedback": "Archivo vacío - sin contenido para evaluar"
+      },
+      {
+        "activityDescription": "Mediante un ciclo while, solicita al usuario que escriba palabras. El proceso termina cuando el usuario escriba la palabra \"fin\". Al final, muestra cuántas palabras se leyeron (sin contar \"fin\").",
+        "solutionFile": "src/ejercicio_10.py",
+        "score": 0,
+        "fileFound": true,
+        "feedback": "Archivo vacío - sin contenido para evaluar"
+      },
+      {
+        "activityDescription": "Con un ciclo for, imprime cada carácter de la palabra \"python\" en una línea separada.",
+        "solutionFile": "src/ejercicio_11.py",
+        "score": 0,
+        "fileFound": true,
+        "feedback": "Archivo vacío - sin contenido para evaluar"
+      },
+      {
+        "activityDescription": "Utilizando un ciclo while, calcula el factorial de un número entero n introducido por el usuario y muestra el resultado.",
+        "solutionFile": "src/ejercicio_12.py",
+        "score": 0,
+        "fileFound": true,
+        "feedback": "Archivo vacío - sin contenido para evaluar"
+      },
+      {
+        "activityDescription": "Con un ciclo for, imprime los números del 1 al 30 saltando de 3 en 3 (1, 4, 7, …, 28), cada número en una línea.",
+        "solutionFile": "src/ejercicio_13.py",
+        "score": 0,
+        "fileFound": true,
+        "feedback": "Archivo vacío - sin contenido para evaluar"
+      },
+      {
+        "activityDescription": "Mediante un ciclo while, implementa un juego de adivinanza: el programa genera un número aleatorio del 1 al 10 y solicita al usuario que lo adivine. El proceso se repite hasta que el usuario acierte. Muestra un mensaje de felicitación al final.",
+        "solutionFile": "src/ejercicio_14.py",
+        "score": 0,
+        "fileFound": true,
+        "feedback": "Archivo vacío - sin contenido para evaluar"
+      },
+      {
+        "activityDescription": "Con un ciclo for, imprime un triángulo rectángulo de 5 filas usando el carácter '*'.",
+        "solutionFile": "src/ejercicio_15.py",
+        "score": 0,
+        "fileFound": true,
+        "feedback": "Archivo vacío - sin contenido para evaluar"
+      },
+      {
+        "activityDescription": "Utilizando un ciclo while, simula un reloj digital que muestre cada segundo desde 00:00 hasta 00:59 en formato MM:SS, cada valor en una línea.",
+        "solutionFile": "src/ejercicio_16.py",
+        "score": 0,
+        "fileFound": true,
+        "feedback": "Archivo vacío - sin contenido para evaluar"
+      },
+      {
+        "activityDescription": "Con un ciclo for, solicita al usuario que ingrese un número entero positivo y calcula la suma de sus dígitos, mostrando el resultado final.",
+        "solutionFile": "src/ejercicio_17.py",
+        "score": 0,
+        "fileFound": true,
+        "feedback": "Archivo vacío - sin contenido para evaluar"
+      },
+      {
+        "activityDescription": "Mediante un ciclo while, genera y muestra la secuencia de Fibonacci empezando por 1, 1, 2, 3, 5, … y termina cuando se alcance el primer valor mayor que 1000.",
+        "solutionFile": "src/ejercicio_18.py",
+        "score": 0,
+        "fileFound": true,
+        "feedback": "Archivo vacío - sin contenido para evaluar"
+      },
+      {
+        "activityDescription": "Con un ciclo for, cuenta cuántas vocales (sin distinción de mayúsculas/minúsculas) hay en la frase frase = \"programacion es divertida\" y muestra el total.",
+        "solutionFile": "src/ejercicio_19.py",
+        "score": 0,
+        "fileFound": true,
+        "feedback": "Archivo vacío - sin contenido para evaluar"
+      },
+      {
+        "activityDescription": "Utilizando un ciclo while, solicita al usuario que ingrese edades una a una. El proceso termina cuando se introduzca -1. Al final, muestra la edad mayor que se haya ingresado.",
+        "solutionFile": "src/ejercicio_20.py",
+        "score": 0,
+        "fileFound": true,
+        "feedback": "Archivo vacío - sin contenido para evaluar"
+      }
+    ],
+    "overallScore": 0,
+    "totalActivities": 20,
+    "completedActivities": 0,
+    "summary": "Necesita mejorar. Completó 0/20 actividades (0%) con una calificación promedio de 0.0/5. Se recomienda revisar los conceptos fundamentales.",
+    "recommendations": [
+      "Revisar y mejorar las actividades con calificación baja",
+      "Enfocarse en mejorar la documentación y comentarios del código",
+      "Aplicar mejores prácticas de programación"
+    ],
+    "evaluatedAt": "2025-08-21T17:28:40.483Z",
+    "evaluatedBy": "Sistema de Evaluación de No Calificados"
   }
 }
