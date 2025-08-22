@@ -48,7 +48,7 @@ BT
 11.5 TL
 0 g
 39.6850393700787407 692.6774015748030706 Td
-(Fecha de evaluación: 22/8/2025, 18:12:44) Tj
+(Fecha de evaluación: 22/8/2025, 18:15:53) Tj
 ET
 BT
 /F1 10 Tf
@@ -1497,7 +1497,7 @@ endobj
 endobj
 6 0 obj
 <<
-/Length 5679
+/Length 5623
 >>
 stream
 0.5670000000000001 w
@@ -1549,9 +1549,9 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 675.0081102362204319 Td
-(La solución utiliza una comprensión de lista para imprimir, lo cual no es el uso más común para tareas de impresión) Tj
-T* (secuencial. Además, empieza en 1 en vez de 0, por lo que no cumple completamente con la descripción de la) Tj
-T* (actividad.) Tj
+(La solución usa una comprensión de lista para imprimir, lo cual no es incorrecto, pero un ciclo `for` explícito sería) Tj
+T* (más legible. Además, el rango empieza en 1, debería empezar en 0 para incluir el 0 en la salida, y el 10 es) Tj
+T* (exclusivo, el 9 sí se imprime.) Tj
 ET
 BT
 /F2 10 Tf
@@ -1594,14 +1594,13 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 537.9884251968503577 Td
-(La solución es correcta y concisa. El código es legible y cumple con el objetivo de la actividad utilizando un ciclo) Tj
-T* (while de manera eficiente.) Tj
+(La solución es correcta y eficiente. El código es limpio y fácil de entender.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 502.3151968503937042 Td
+39.6850393700787407 513.8151968503937042 Td
 (Actividad 3: Con un ciclo for, calcula la suma de todos los enteros del 1 al 100 \(inclusive\) y muestra el) Tj
 T* (resultado.) Tj
 ET
@@ -1609,42 +1608,42 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 475.1459055118110086 Td
+51.0236220472441033 486.6459055118110655 Td
 (Archivo esperado: src/ejercicio_03.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 459.4766141732283131 Td
+51.0236220472441033 470.97661417322837 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 443.8073228346456744 Td
+51.0236220472441033 455.3073228346457313 Td
 (Calificación: 5.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 428.1380314960629789 Td
+51.0236220472441033 439.6380314960630926 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 412.4687401574803403 Td
-(La solución es correcta y concisa. El código es legible y cumple con el objetivo de la actividad.) Tj
+62.3622047244094517 423.9687401574803971 Td
+(La solución es correcta y concisa. El código es limpio y fácil de entender. ¡Excelente trabajo!) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 388.2955118110236867 Td
+39.6850393700787407 399.7955118110237436 Td
 (Actividad 4: Utilizando un ciclo while, solicita al usuario que ingrese números. El proceso termina cuando) Tj
 T* (el usuario escriba 0. Al final, muestra la suma total de todos los números ingresados.) Tj
 ET
@@ -1652,43 +1651,43 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 361.1262204724409912 Td
+51.0236220472441033 372.6262204724411049 Td
 (Archivo esperado: src/ejercicio_04.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 345.4569291338583525 Td
+51.0236220472441033 356.9569291338584094 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 329.7876377952757139 Td
+51.0236220472441033 341.2876377952757707 Td
 (Calificación: 3.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 314.1183464566930752 Td
+51.0236220472441033 325.6183464566930752 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 298.4490551181103228 Td
-(El código resuelve el problema, pero falta acumular la suma de los números ingresados. Necesitas una variable) Tj
-T* (para guardar la suma y actualizarla en cada iteración del ciclo.) Tj
+62.3622047244094517 309.9490551181104365 Td
+(El programa funciona, pero no calcula la suma total de los números ingresados. Falta acumular los números) Tj
+T* (ingresados en una variable para luego mostrar el resultado.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 262.7758267716536693 Td
+39.6850393700787407 274.275826771653783 Td
 (Actividad 5: Con un ciclo for, imprime la tabla de multiplicar del 7, es decir, 7 × 1, 7 × 2, …, 7 × 10, cada) Tj
 T* (resultado en una línea.) Tj
 ET
@@ -1696,37 +1695,38 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 235.6065354330710306 Td
+51.0236220472441033 247.1065354330711443 Td
 (Archivo esperado: src/ejercicio_05.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 219.937244094488392 Td
+51.0236220472441033 231.4372440944885057 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 204.2679527559057533 Td
+51.0236220472441033 215.7679527559057533 Td
 (Calificación: 4.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 188.5986614173231146 Td
+51.0236220472441033 200.0986614173231146 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 172.9293700787403623 Td
-(La solución es correcta y concisa, utilizando una comprensión de lista para imprimir la tabla del 7.  Considera usar) Tj
-T* (un bucle `for` tradicional para mayor legibilidad en este caso específico, aunque la solución actual funciona.) Tj
+62.3622047244094517 184.4293700787404759 Td
+(La solución es correcta y concisa utilizando una list comprehension. Sin embargo, el uso de list comprehension) Tj
+T* (para este caso específico \(solo imprimir\) se considera menos legible que un bucle for tradicional. Aunque funciona,) Tj
+T* (la claridad podría mejorarse.) Tj
 ET
 BT
 /F2 10 Tf
@@ -1769,8 +1769,7 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 47.4096850393704017 Td
-(La solución es correcta y eficiente. El código es limpio y fácil de entender, cumpliendo con el objetivo de la) Tj
-T* (actividad.) Tj
+(La solución es correcta y cumple con los requerimientos. El código es limpio y fácil de entender.) Tj
 ET
 BT
 /F1 8 Tf
@@ -1798,7 +1797,7 @@ endobj
 endobj
 8 0 obj
 <<
-/Length 5708
+/Length 5699
 >>
 stream
 0.5670000000000001 w
@@ -1844,8 +1843,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 695.3506299212598378 Td
-(La solución es correcta, clara y eficiente. Se utiliza una función para encapsular la lógica, lo cual es una buena) Tj
-T* (práctica.) Tj
+(Excelente solución. El código es limpio, funcional y sigue buenas prácticas al utilizar una función para generalizar el) Tj
+T* (conteo de caracteres.) Tj
 ET
 BT
 /F2 10 Tf
@@ -1888,7 +1887,7 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 569.8309448818897636 Td
-(La solución es correcta y eficiente. El código es limpio y fácil de entender. ¡Buen trabajo!) Tj
+(La solución es correcta y eficiente. El código es limpio y fácil de entender, cumpliendo con el objetivo planteado.) Tj
 ET
 BT
 /F2 10 Tf
@@ -1931,9 +1930,9 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 455.8112598425197461 Td
-(La solución es correcta y concisa utilizando una comprensión de lista. Sin embargo, el uso de `print` dentro de la) Tj
-T* (comprensión de lista se considera menos legible que un bucle for explícito para este caso. Considera usar un bucle) Tj
-T* (for tradicional para mayor claridad.) Tj
+(La solución es correcta y concisa utilizando una comprensión de lista. Sin embargo, para un problema tan simple,) Tj
+T* (un bucle `for` explícito sería más legible. Además, se podría optimizar el `range` comenzando en 2 y usando un) Tj
+T* (paso de 2.) Tj
 ET
 BT
 /F2 10 Tf
@@ -1976,9 +1975,9 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 318.7915748031497287 Td
-(La solución resuelve el problema correctamente. Se puede mejorar la claridad del código eliminando la variable) Tj
-T* (`palabra_lower` ya que se utiliza directamente en el `if` dentro del ciclo. Considera usar `len\(contenedor\)` para) Tj
-T* (obtener la cantidad de palabras en lugar de mantener un contador.) Tj
+(La lógica es correcta y cumple con el objetivo. Se podría mejorar la legibilidad usando un contador dentro del bucle) Tj
+T* (while en lugar de un diccionario si solo se necesita la cantidad de palabras. Considera usar nombres de variables) Tj
+T* (más descriptivos \(por ejemplo, `palabra_ingresada` en lugar de `palabra`\).) Tj
 ET
 BT
 /F2 10 Tf
@@ -2020,15 +2019,14 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 193.2718897637796545 Td
-(La solución es correcta y concisa, utilizando una comprensión de lista para imprimir cada carácter. Aunque) Tj
-T* (funcional, el uso de una comprensión de lista solo para imprimir puede ser menos legible que un ciclo for tradicional) Tj
-T* (en este caso.) Tj
+(La solución es correcta y concisa utilizando una comprensión de lista. Sin embargo, un ciclo for tradicional sería) Tj
+T* (más legible en este caso particular para principiantes. Considera la legibilidad sobre la brevedad.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 146.0986614173230009 Td
+39.6850393700787407 157.5986614173230009 Td
 (Actividad 12: Utilizando un ciclo while, calcula el factorial de un número entero n introducido por el usuario) Tj
 T* (y muestra el resultado.) Tj
 ET
@@ -2036,35 +2034,35 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 118.9293700787403623 Td
+51.0236220472441033 130.4293700787403623 Td
 (Archivo esperado: src/ejercicio_12.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 103.2600787401576099 Td
+51.0236220472441033 114.7600787401577236 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 87.5907874015749712 Td
+51.0236220472441033 99.0907874015750849 Td
 (Calificación: 0.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 71.9214960629923326 Td
+51.0236220472441033 83.4214960629923326 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 56.2522047244096939 Td
+62.3622047244094517 67.7522047244096939 Td
 (Contenido insuficiente - solo comentarios o código trivial) Tj
 ET
 BT
@@ -2093,7 +2091,7 @@ endobj
 endobj
 10 0 obj
 <<
-/Length 6174
+/Length 6117
 >>
 stream
 0.5670000000000001 w
@@ -2139,13 +2137,14 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 695.3506299212598378 Td
-(Excelente solución. El uso de la comprensión de listas para imprimir los números es conciso y eficiente.) Tj
+(Excelente solución utilizando comprensión de listas para lograr el resultado de manera concisa. El código es) Tj
+T* (funcional y cumple con los requisitos de la actividad.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 671.1774015748030706 Td
+39.6850393700787407 659.6774015748030706 Td
 (Actividad 14: Mediante un ciclo while, implementa un juego de adivinanza: el programa genera un número) Tj
 T* (aleatorio del 1 al 10 y solicita al usuario que lo adivine. El proceso se repite hasta que el usuario acierte.) Tj
 T* (Muestra un mensaje de felicitación al final.) Tj
@@ -2154,38 +2153,37 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 632.5081102362204319 Td
+51.0236220472441033 621.0081102362204319 Td
 (Archivo esperado: src/ejercicio_14.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 616.8388188976377933 Td
+51.0236220472441033 605.3388188976377933 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 601.1695275590551546 Td
+51.0236220472441033 589.6695275590551546 Td
 (Calificación: 4.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 585.5002362204725159 Td
+51.0236220472441033 574.0002362204725159 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 569.8309448818897636 Td
-(La solución es funcional y correcta. Sin embargo, la generación del número aleatorio debería estar fuera del ciclo) Tj
-T* (`while` para que el número a adivinar sea el mismo durante toda la partida. Se podría mejorar la legibilidad) Tj
-T* (añadiendo un mensaje de error si el usuario no acierta.) Tj
+62.3622047244094517 558.3309448818897636 Td
+(La solución es correcta y funcional, pero el número aleatorio se genera en cada iteración del ciclo, lo que no es lo) Tj
+T* (ideal. Debería generarse una sola vez al principio. Considera agregar mensajes de ayuda al usuario si falla.) Tj
 ET
 BT
 /F2 10 Tf
@@ -2227,8 +2225,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 444.3112598425197461 Td
-(La solución es correcta y concisa utilizando una comprensión de lista. Podrías mejorar la legibilidad utilizando un) Tj
-T* (bucle for tradicional en lugar de una comprensión de lista con efecto secundario \(impresión\).) Tj
+(La solución es concisa y correcta usando una comprensión de lista. Podría ser más legible con un ciclo for) Tj
+T* (tradicional para principiantes. Considerar agregar comentarios para mejor claridad.) Tj
 ET
 BT
 /F2 10 Tf
@@ -2271,9 +2269,9 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 318.7915748031498424 Td
-(El código cumple parcialmente con el objetivo, pero tiene errores. La inicialización del contador de minutos es) Tj
-T* (correcta, pero la lógica del ciclo while y el manejo de segundos no son del todo correctos, impidiendo que llegue al) Tj
-T* (segundo 59 y que se formatee correctamente los segundos menores a 10 \(ej. 01, 02\).) Tj
+(El código funciona parcialmente, pero no se reinicia el contador de segundos a 0 después de 59. Además, el) Tj
+T* (formato MM:SS no siempre se cumple \(falta el 0 inicial para segundos menores a 10\). Considera usar f-strings para) Tj
+T* (formatear la salida correctamente y la lógica del ciclo while necesita revisión.) Tj
 ET
 BT
 /F2 10 Tf
@@ -2316,8 +2314,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 181.7718897637798818 Td
-(La solución funciona correctamente. Se podría mejorar la legibilidad incluyendo validación de entrada para) Tj
-T* (asegurar que el usuario ingrese un número y agregando comentarios explicando el propósito del código.) Tj
+(La solución funciona correctamente y es concisa. Podrías agregar validación para asegurar que la entrada sea un) Tj
+T* (número entero positivo y mejorar los nombres de las variables para mayor claridad.) Tj
 ET
 BT
 /F2 10 Tf
@@ -2360,9 +2358,9 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 56.2522047244098076 Td
-(El código genera la secuencia de Fibonacci, pero imprime los números de forma incorrecta \(imprime n1, n2 y luego) Tj
-T* (n3 en cada iteración\). Debería imprimir la secuencia completa dentro del ciclo while para mostrar la secuencia) Tj
-T* (correcta hasta el primer número mayor que 1000.) Tj
+(El código genera la secuencia de Fibonacci, pero imprime valores incorrectamente y no se detiene justo después) Tj
+T* (del primer valor mayor que 1000. Deberías calcular el siguiente valor antes de imprimirlo y verificar la condición de) Tj
+T* (parada después del cálculo.) Tj
 ET
 BT
 /F1 8 Tf
@@ -2390,7 +2388,7 @@ endobj
 endobj
 12 0 obj
 <<
-/Length 2785
+/Length 2856
 >>
 stream
 0.5670000000000001 w
@@ -2436,8 +2434,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 695.3506299212598378 Td
-(La solución es correcta y funcional. Podrías mejorar la legibilidad usando lower\(\) para evitar tener que definir) Tj
-T* (vocales en minúsculas y podrías usar un comentario al inicio para explicar el propósito del script.) Tj
+(La solución es correcta y funcional. Podrías mejorar la legibilidad utilizando `lower\(\)` para hacer la comparación) Tj
+T* (insensible a mayúsculas y minúsculas, evitando así duplicar las vocales en la lista.) Tj
 ET
 BT
 /F2 10 Tf
@@ -2480,21 +2478,22 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 569.8309448818897636 Td
-(La solución funciona correctamente y cumple con los requisitos. Podrías mejorar la legibilidad evitando el `continue`) Tj
-T* (dentro del `if` y usando una variable más descriptiva para `control`.) Tj
+(La solución es correcta y funcional. Podría mejorarse el manejo de excepciones para ser más específico) Tj
+T* (\(ValueError en lugar de Exception\) y evitar capturar errores no relacionados con la conversión a entero. El código) Tj
+T* (es legible y la lógica implementada es clara.) Tj
 ET
 BT
 /F2 12 Tf
 13.7999999999999989 TL
 0. g
-39.6850393700787407 534.15771653543311 Td
+39.6850393700787407 522.65771653543311 Td
 (Resumen General) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 510.819133858267719 Td
+39.6850393700787407 499.319133858267719 Td
 (Buen trabajo general. Completó 19/20 actividades \(95%\) con una calificación promedio de 3.9/5. Hay) Tj
 T* (oportunidades de mejora en algunos aspectos.) Tj
 ET
@@ -2502,14 +2501,14 @@ BT
 /F2 12 Tf
 13.7999999999999989 TL
 0. g
-39.6850393700787407 469.4766141732283131 Td
+39.6850393700787407 457.97661417322837 Td
 (Recomendaciones) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 446.1380314960629789 Td
+51.0236220472441033 434.6380314960630926 Td
 (• Revisar y mejorar las actividades con calificación baja) Tj
 ET
 BT
@@ -2698,7 +2697,7 @@ endobj
 27 0 obj
 <<
 /Producer (jsPDF 3.0.1)
-/CreationDate (D:20250822181244-05'00')
+/CreationDate (D:20250822181553-05'00')
 >>
 endobj
 28 0 obj
@@ -2712,41 +2711,41 @@ endobj
 xref
 0 29
 0000000000 65535 f 
-0000047681 00000 n 
-0000049528 00000 n 
+0000047630 00000 n 
+0000049477 00000 n 
 0000000015 00000 n 
 0000000152 00000 n 
 0000026574 00000 n 
 0000026711 00000 n 
-0000032442 00000 n 
-0000032579 00000 n 
-0000038339 00000 n 
-0000038477 00000 n 
-0000044704 00000 n 
-0000044843 00000 n 
-0000047763 00000 n 
-0000047889 00000 n 
-0000048020 00000 n 
-0000048154 00000 n 
-0000048292 00000 n 
-0000048416 00000 n 
-0000048545 00000 n 
-0000048677 00000 n 
-0000048813 00000 n 
-0000048941 00000 n 
-0000049068 00000 n 
-0000049197 00000 n 
-0000049330 00000 n 
-0000049432 00000 n 
-0000049781 00000 n 
-0000049867 00000 n 
+0000032386 00000 n 
+0000032523 00000 n 
+0000038274 00000 n 
+0000038412 00000 n 
+0000044582 00000 n 
+0000044721 00000 n 
+0000047712 00000 n 
+0000047838 00000 n 
+0000047969 00000 n 
+0000048103 00000 n 
+0000048241 00000 n 
+0000048365 00000 n 
+0000048494 00000 n 
+0000048626 00000 n 
+0000048762 00000 n 
+0000048890 00000 n 
+0000049017 00000 n 
+0000049146 00000 n 
+0000049279 00000 n 
+0000049381 00000 n 
+0000049730 00000 n 
+0000049816 00000 n 
 trailer
 <<
 /Size 29
 /Root 28 0 R
 /Info 27 0 R
-/ID [ <63787D97D10517C7A8AB3F18019BE1E1> <63787D97D10517C7A8AB3F18019BE1E1> ]
+/ID [ <E011AAC78F1D65E6284ABE8E5FED9F1D> <E011AAC78F1D65E6284ABE8E5FED9F1D> ]
 >>
 startxref
-49971
+49920
 %%EOF
