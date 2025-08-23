@@ -2954,5 +2954,160 @@
     ],
     "evaluatedAt": "2025-08-23T00:57:09.004Z",
     "evaluatedBy": "Sistema de Evaluación"
+  },
+  "Santiago-diazu/act_ntp_s3": {
+    "repositoryUrl": "Santiago-diazu/act_ntp_s3",
+    "studentName": "Santiago Diaz Usma",
+    "activities": [
+      {
+        "activityDescription": "Usando un ciclo for, imprime los números enteros del 0 al 9, cada uno en una línea.",
+        "solutionFile": "src/ejercicio_01.py",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "La solución es correcta y cumple con el objetivo. Se podría mejorar la presentación de la salida, imprimiendo solo el número en lugar de 'numero = numero'."
+      },
+      {
+        "activityDescription": "Mediante un ciclo while, imprime los números enteros del 10 al 1 en orden descendente, cada número en una línea.",
+        "solutionFile": "src/ejercicio_02.py",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La solución es correcta, concisa y cumple con todos los requisitos. El código es limpio y fácil de entender."
+      },
+      {
+        "activityDescription": "Con un ciclo for, calcula la suma de todos los enteros del 1 al 100 (inclusive) y muestra el resultado.",
+        "solutionFile": "src/ejercicio_03.py",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "Excelente solución. El código es conciso, fácil de entender y resuelve correctamente el problema planteado. No hay mejoras significativas que sugerir."
+      },
+      {
+        "activityDescription": "Utilizando un ciclo while, solicita al usuario que ingrese números. El proceso termina cuando el usuario escriba 0. Al final, muestra la suma total de todos los números ingresados.",
+        "solutionFile": "src/ejercicio_04.py",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La solución es correcta y eficiente. El código es limpio y fácil de entender, cumpliendo con los requisitos de la actividad."
+      },
+      {
+        "activityDescription": "Con un ciclo for, imprime la tabla de multiplicar del 7, es decir, 7 × 1, 7 × 2, …, 7 × 10, cada resultado en una línea.",
+        "solutionFile": "src/ejercicio_05.py",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La solución es correcta, concisa y funcional. El código es legible y cumple con los requisitos del ejercicio."
+      },
+      {
+        "activityDescription": "Mediante un ciclo while, genera y muestra los primeros 15 múltiplos de 3, comenzando desde 3.",
+        "solutionFile": "src/ejercicio_06.py",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La solución es correcta y eficiente. El código es limpio y fácil de entender. ¡Excelente trabajo!"
+      },
+      {
+        "activityDescription": "Con un ciclo for, cuenta cuántas letras 'a' (minúscula) hay en la cadena texto = \"manzana\" y muestra el total.",
+        "solutionFile": "src/ejercicio_07.py",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La solución es correcta y eficiente. El código es legible y cumple con el objetivo planteado. ¡Buen trabajo!"
+      },
+      {
+        "activityDescription": "Usando un ciclo while, calcula y muestra los cuadrados de los números del 1 al 20 (1², 2², …, 20²), cada resultado en una línea.",
+        "solutionFile": "src/ejercicio_08.py",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La solución es correcta y concisa. El código es legible y cumple con el objetivo planteado, utilizando un ciclo `while` de manera eficiente."
+      },
+      {
+        "activityDescription": "Con un ciclo for, imprime todos los números pares del 2 al 50 (ambos inclusive), cada número en una línea.",
+        "solutionFile": "src/ejercicio_09.py",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "Excelente solución. El código es conciso, fácil de entender y cumple con todos los requisitos de la actividad."
+      },
+      {
+        "activityDescription": "Mediante un ciclo while, solicita al usuario que escriba palabras. El proceso termina cuando el usuario escriba la palabra \"fin\". Al final, muestra cuántas palabras se leyeron (sin contar \"fin\").",
+        "solutionFile": "src/ejercicio_10.py",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La solución es correcta, concisa y cumple con los requisitos. El código es legible y funcional."
+      },
+      {
+        "activityDescription": "Con un ciclo for, imprime cada carácter de la palabra \"python\" en una línea separada.",
+        "solutionFile": "src/ejercicio_11.py",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "La solución funciona correctamente, pero el enunciado pedía imprimir la palabra 'python'. Se puede mejorar quitando el `input` para que imprima directamente 'python'. Buen uso del `for`."
+      },
+      {
+        "activityDescription": "Utilizando un ciclo while, calcula el factorial de un número entero n introducido por el usuario y muestra el resultado.",
+        "solutionFile": "src/ejercicio_12.py",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "El código calcula correctamente el factorial usando un ciclo while. Sin embargo, el mensaje final es incorrecto (imprime el factorial de 1 en lugar de n), considera usar la variable original `n` en el `print` para una mejor experiencia de usuario."
+      },
+      {
+        "activityDescription": "Con un ciclo for, imprime los números del 1 al 30 saltando de 3 en 3 (1, 4, 7, …, 28), cada número en una línea.",
+        "solutionFile": "src/ejercicio_13.py",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La solución es correcta, concisa y eficiente. El código cumple con la descripción de la actividad y está bien estructurado."
+      },
+      {
+        "activityDescription": "Mediante un ciclo while, implementa un juego de adivinanza: el programa genera un número aleatorio del 1 al 10 y solicita al usuario que lo adivine. El proceso se repite hasta que el usuario acierte. Muestra un mensaje de felicitación al final.",
+        "solutionFile": "src/ejercicio_14.py",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La solución es correcta, clara y bien estructurada. El código cumple con la descripción de la actividad y utiliza buenas prácticas (manejo de excepciones)."
+      },
+      {
+        "activityDescription": "Con un ciclo for, imprime un triángulo rectángulo de 5 filas usando el carácter '*'.",
+        "solutionFile": "src/ejercicio_15.py",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "Excelente solución. El código es conciso, funcional y cumple con los requisitos de la actividad. No hay áreas de mejora evidentes."
+      },
+      {
+        "activityDescription": "Utilizando un ciclo while, simula un reloj digital que muestre cada segundo desde 00:00 hasta 00:59 en formato MM:SS, cada valor en una línea.",
+        "solutionFile": "src/ejercicio_16.py",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La solución es correcta, clara y concisa. Utiliza `time.sleep(1)` para simular el segundo y el formato f-string para mostrar los números con ceros a la izquierda, cumpliendo con todos los requisitos."
+      },
+      {
+        "activityDescription": "Con un ciclo for, solicita al usuario que ingrese un número entero positivo y calcula la suma de sus dígitos, mostrando el resultado final.",
+        "solutionFile": "src/ejercicio_17.py",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "Excelente solución. El código es conciso, legible y cumple con los requisitos de la actividad.  Considera agregar validación para asegurar que la entrada sea un número entero positivo."
+      },
+      {
+        "activityDescription": "Mediante un ciclo while, genera y muestra la secuencia de Fibonacci empezando por 1, 1, 2, 3, 5, … y termina cuando se alcance el primer valor mayor que 1000.",
+        "solutionFile": "src/ejercicio_18.py",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La solución es correcta, concisa y eficiente. Utiliza una asignación simultánea para actualizar los valores de Fibonacci, lo cual es una buena práctica."
+      },
+      {
+        "activityDescription": "Con un ciclo for, cuenta cuántas vocales (sin distinción de mayúsculas/minúsculas) hay en la frase frase = \"programacion es divertida\" y muestra el total.",
+        "solutionFile": "src/ejercicio_19.py",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La solución es correcta, clara y eficiente. El código cumple con la descripción de la actividad y está bien estructurado."
+      },
+      {
+        "activityDescription": "Utilizando un ciclo while, solicita al usuario que ingrese edades una a una. El proceso termina cuando se introduzca -1. Al final, muestra la edad mayor que se haya ingresado.",
+        "solutionFile": "src/ejercicio_20.py",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La solución es correcta y completa. El código es claro, legible y maneja adecuadamente las excepciones y el caso de no ingresar edades."
+      }
+    ],
+    "overallScore": 4.85,
+    "totalActivities": 20,
+    "completedActivities": 20,
+    "summary": "Excelente trabajo. Completó 20/20 actividades (100%) con una calificación promedio de 4.8/5. Demuestra buen dominio de los conceptos.",
+    "recommendations": [
+      "Continuar con el excelente trabajo y mantener la calidad del código"
+    ],
+    "evaluatedAt": "2025-08-23T01:03:48.957Z",
+    "evaluatedBy": "Sistema de Evaluación"
   }
 }
